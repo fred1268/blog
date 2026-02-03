@@ -2,14 +2,14 @@
 title = "Over Complicated Rust"
 date = "2026-02-03T18:57:45+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = ""
+author = "Fred"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 +++
 
