@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tech Haiku'
 theme = 'terminal'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
