@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://overco.de/'
 languageCode = 'en-us'
-title = 'Tech Haiku'
+title = 'Overcode'
 theme = 'terminal'
+copyright = 'Copyright © Fred, 2026'
 pagination.pagerSize = 5
 
 [markup.highlight]
@@ -64,10 +65,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Tech Thoughts"
+    title = "Overcode"
 
     [languages.en.params]
-      subtitle = "Random thoughts from a random guy"
+      subtitle = "Random (tech) thoughts from a random guy"
       owner = ""
       keywords = ""
       copyright = ""
@@ -82,7 +83,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Tech Thoughts"
+        logoText = "Overcode"
         logoHomeLink = "/"
 
       [languages.en.menu]
@@ -97,10 +98,10 @@ pagination.pagerSize = 5
 
   [languages.fr]
     languageName = "Français"
-    title = "Tech Thoughts"
+    title = "Overcode"
 
     [languages.fr.params]
-      subtitle = "Random thoughts from a random guy"
+      subtitle = "Random (tech) thoughts from a random guy"
       owner = ""
       keywords = ""
       copyright = ""
@@ -115,7 +116,7 @@ pagination.pagerSize = 5
       words = "mots"
 
       [languages.fr.params.logo]
-        logoText = "Tech Thoughts"
+        logoText = "Overcode"
         logoHomeLink = "/"
 
       [languages.fr.menu]
