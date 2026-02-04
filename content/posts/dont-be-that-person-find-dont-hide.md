@@ -1,16 +1,16 @@
 +++
 title = "Don't be that person: find, don't hide"
-date = "2026-02-04T11:49:58+01:00"
+date = "2025-12-05T11:49:58+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["dont-be-that-person", ""]
+tags = ["dont-be-that-person", "go"]
 keywords = ["", ""]
-description = ""
+description = '"Out of sight, out of mind. Nobody will notice." is not a winning strategy'
 showFullContent = false
-readingTime = false
-hideComments = false
+readingTime = true
+hideComments = true
 +++
 
 The other day, I was working on improving some cache code when I stumbled upon something peculiar: a struct member that turned out to be a function. Its name? `exitFunc`. That's... unusual, to say the least. My curiosity was piqued, and I decided to dig deeper. What I found is a cautionary tale about the temptation to sweep problems under the rug.
