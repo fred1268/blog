@@ -8,6 +8,10 @@ pagination.pagerSize = 5
 [markup.highlight]
   noClasses = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -17,7 +21,7 @@ pagination.pagerSize = 5
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = true
+  showLanguageSelector = false
 
   # set theme to full screen width
   fullWidthTheme = true
@@ -95,37 +99,3 @@ pagination.pagerSize = 5
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
-
-  [languages.fr]
-    languageName = "Français"
-    title = "Overcode"
-
-    [languages.fr.params]
-      subtitle = "Random (tech) thoughts from a random guy"
-      owner = ""
-      keywords = ""
-      copyright = ""
-      menuMore = "Voir plus"
-      readMore = "Lire plus"
-      readOtherPosts = "Lire les autres billets"
-      newerPosts = "Billets plus récents"
-      olderPosts = "Billets plus anciens"
-      missingContentMessage = "Page non trouvée..."
-      missingBackButtonLabel = "Retour à l'accueil"
-      minuteReadingTime = "min"
-      words = "mots"
-
-      [languages.fr.params.logo]
-        logoText = "Overcode"
-        logoHomeLink = "/"
-
-      [languages.fr.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.fr.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
-
