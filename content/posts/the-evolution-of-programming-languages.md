@@ -1,5 +1,5 @@
 +++
-title = "Programming languages evolution"
+title = "The evolution of programming languages"
 date = "2024-11-21T18:32:41+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
