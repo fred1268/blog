@@ -1,6 +1,6 @@
 +++
 title = "The Lego generation: software development then and now"
-date = "2024-01-27T21:53:33+01:00"
+date = "2024-03-27T21:53:33+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

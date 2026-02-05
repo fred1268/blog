@@ -1,6 +1,6 @@
 +++
 title = "The autonomy trap: when 'teams decide' becomes no one's accountable"
-date = "2024-03-12T08:20:39+01:00"
+date = "2024-04-12T08:20:39+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
