@@ -1,7 +1,7 @@
 +++
 title = "When everyone's an expert: the quiet developer's dilemma"
-date = "2025-03-25T19:55:04+01:00"
-author = "Fred"
+date = "2025-11-25T19:55:04+01:00"
+author = ""
 cover = ""
 tags = ["ai", "career", "programming"]
 keywords = ["impostor syndrome", "ai-generated code", "developer productivity", "software quality", "quiet developer", "social media", "code review"]

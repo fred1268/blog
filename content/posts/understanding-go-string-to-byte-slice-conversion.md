@@ -1,7 +1,7 @@
 +++
 title = "Understanding Go's string to byte slice conversion"
 date = "2026-01-15T22:24:12+01:00"
-author = "Fred"
+author = ""
 cover = ""
 tags = ["go", "performance", "memory"]
 keywords = ["go", "golang", "memory allocation", "unsafe"]

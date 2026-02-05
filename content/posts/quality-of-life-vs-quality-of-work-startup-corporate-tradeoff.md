@@ -1,7 +1,7 @@
 +++
 title = "Quality of life vs. quality of work: the startup-corporate tradeoff"
 date = "2025-04-30T21:08:00+01:00"
-author = "Fred"
+author = ""
 cover = ""
 tags = ["career", "startups", "tech"]
 keywords = ["startup", "big tech", "career advice", "software developer", "quality of life", "quality of work"]
