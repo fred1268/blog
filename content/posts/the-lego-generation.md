@@ -7,13 +7,13 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["programming", "career", "history"]
 keywords = ["software development", "programming history", "developer experience", "tooling", "career", "learning"]
-description = "A young client asked what's changed in 30 years of software development. The answer: everything and nothing. We've traded assembly for JavaScript, deep understanding for fast results, and monolithic codebases for complex toolchains. Was it better before? No. Is it perfect now? Also no."
+description = "A young developer asked what's changed in 30 years of software development. The answer: everything and nothing. We've traded assembly for JavaScript, deep understanding for fast results, and monolithic codebases for complex toolchains. Was it better before? No. Is it perfect now? Also no."
 showFullContent = false
 readingTime = true
 hideComments = true
 +++
 
-The other day, a young client asked me what had changed in 30 years of software development. Good question! Here's what I told him.
+The other day, a young developer asked me what had changed in 30 years of software development. Good question! Here's what I told him.
 
 ## Simpler and more complex at the same time
 
