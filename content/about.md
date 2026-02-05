@@ -1,8 +1,7 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Fred"
 toc = false
+readingTime = false
 +++
 
 # Hey, I'm Fred!
