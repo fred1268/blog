@@ -2,7 +2,7 @@ baseURL = 'https://overco.de/'
 languageCode = 'en-us'
 title = 'Overcode'
 theme = 'terminal'
-copyright = 'Copyright © Fred, 2026'
+copyright = 'Copyright © Fred, 2020-2026'
 pagination.pagerSize = 5
 
 [markup.highlight]
@@ -72,7 +72,7 @@ pagination.pagerSize = 5
     title = "Overcode"
 
     [languages.en.params]
-      subtitle = "Random (tech) thoughts from a random guy"
+      subtitle = ""
       owner = ""
       keywords = ""
       copyright = ""
