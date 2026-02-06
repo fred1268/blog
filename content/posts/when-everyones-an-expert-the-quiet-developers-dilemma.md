@@ -37,9 +37,9 @@ Interesting—I took a look.
 
 Two slick screenshots showing a UI built with a well-known library. I opened the code and found concurrency patterns and other fairly complex stuff.
 
-Now, either this kid is exceptional and has been writing concurrent code since age ten, or this was all AI-generated and he couldn't answer a few pointed questions about what he "wrote."
+Now, maybe this intern is exceptional and has been writing concurrent code since age ten. Or maybe—like so many PRs I see these days—it was AI-generated and accepted without truly understanding what's inside.
 
-There's a 99% chance it's the latter.
+I genuinely don't know. But I know which one I'd bet on.
 
 But here's the thing: when you're surrounded by people producing this kind of output constantly, it makes you question your own abilities. Yet let's be real—I saw someone the other day bragging about producing 5,000 lines of code per day with AI.
 

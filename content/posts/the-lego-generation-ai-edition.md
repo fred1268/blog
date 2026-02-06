@@ -53,9 +53,9 @@ In parallel, YouTube coding channels and blogs proliferated. Neither allows you 
 
 AI has completely upended the rules of the game.
 
-Where developers once needed to write some code, they no longer do. They just "prompt" and, unfortunately more often than not, settle for a very light code review.
+Where developers once needed to write some code, many no longer do. They prompt, review lightly, and move on.
 
-They can now produce faster and faster—without even understanding. Or without even being a developer, as all those selling no-code AI tools like to claim.
+The pace has never been faster—but understanding has become optional. And if the no-code AI crowd is to be believed, so has being a developer at all.
 
 ## The loop is complete
 
@@ -65,4 +65,4 @@ But it doesn't really matter anymore, because the goal is no longer to understan
 
 AI writes the specs (at least that's one upside—now we actually have specs!). AI writes the code. AI tests the code. AI does the code review. And when things break, AI sends an alert at 3 AM to a human who promptly asks AI for a diagnosis and then a fix.
 
-The loop is complete. Our profession will have been definitively hollowed out.
+The loop is complete. Whether our profession survives it—or what it becomes if it does—remains to be seen.

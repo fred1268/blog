@@ -21,9 +21,9 @@ But that time seems to be over. Now I keep encountering startups where I'm told 
 
 ## The experience problem
 
-Let's be honest: it's unrealistic to think that someone who's 25 or 30, fresh out of school or their first job, generally knows what they're talking about when it comes to strategic decisions.
+Let's be honest: it's rare for someone in their mid-twenties, fresh out of school or their first job, to have the context needed for strategic decisions. Not because they lack intelligence—but because strategic judgment comes from experience, and experience takes time.
 
-Yes, some are brilliant. But let's face it—they can be counted on one hand. And let's have the humility to remember the astronomical amount of nonsense we all thought and said at that age. I plead guilty myself.
+Some are brilliant, of course. But most of us—myself very much included—believed and said plenty of nonsense at that age. That's not an insult; it's just how growth works.
 
 ## The information problem
 
@@ -45,6 +45,6 @@ And therein lies the problem.
 
 I come back to my original question: what exactly is a manager supposed to do in these companies?
 
-I don't have the answer. But you neo-CEOs who want—often in a rather demagogic way—to let your teams decide everything, you need to find that answer.
+I don't have the answer. But you neo-CEOs who want to let your teams decide everything—often more out of a desire to seem progressive than because it actually works—you need to find that answer.
 
 Because managing in these neo-dictatorships you've created is a genuine nightmare. You've built organizations where everyone has voice but no one has ownership. That's not autonomy. That's chaos with extra steps.
