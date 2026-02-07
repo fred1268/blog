@@ -2,7 +2,7 @@
 title = "Understanding Go's string to byte slice conversion"
 date = "2025-07-15T22:24:12+01:00"
 author = ""
-cover = ""
+cover = "covers/golang.png"
 tags = ["go", "performance", "memory"]
 keywords = ["go", "golang", "memory allocation", "unsafe"]
 description = "Ever wondered what happens when you cast a string to a byte slice in Go? This deep dive explores the runtime mechanics, memory allocation implications, and why understanding immutability matters for writing efficient Go code."
