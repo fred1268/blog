@@ -1,5 +1,5 @@
 +++
-title = "I got hired at a GAFAM—and I still hate technical interviews"
+title = "I don't code in a tie"
 date = "2024-02-16T22:53:55+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["career", "programming"]
 keywords = ["technical interviews", "coding interviews", "hiring", "software engineering", "leetcode", "developer hiring", "interview process", "GAFAM"]
-description = "Technical interviews have always felt artificial to me—puzzle-solving under pressure that reflects nothing about real work. After hundreds of interviews on both sides, I found a better approach. And yes, I passed the GAFAM gauntlet anyway."
+description = "Technical interviews have always felt artificial to me—puzzle-solving under pressure that reflects nothing about real work. After hundreds of interviews on both sides, I found a better approach."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -17,7 +17,7 @@ hideComments = true
 
 I've always had a problem with technical interviews. They feel artificial, disconnected from reality, and frankly unfair. Judging someone's abilities based on a few minutes of puzzle-coding under pressure? That's never sat right with me.
 
-## I don't code in a tie
+## Where it started
 
 Early in my career, I interviewed at a company for a C++ position. The experience conversation went well. The technical questions went well. Then, just as I thought we were wrapping up, the interviewer announced there would be a coding test.
 
