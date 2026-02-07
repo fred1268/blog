@@ -25,11 +25,12 @@ The joy of programming takes many forms:
 
 1. **Dissecting the problem** and truly understanding it
 2. **Thinking through a solution**
-3. **Implementing that solution**
-4. **Designing the architecture**—what to expose, how it will be used, how the code will be maintained, how to leverage language features to enforce business rules
+3. **Designing the architecture**—what to expose, how it will be used, how the code will be maintained, how to leverage language features to enforce business rules
+4. **Implementing that solution**
 5. **Running tests** that reveal your initial solution isn't quite good enough
-6. **Optimizing** until you reach the final version
-7. And finally, **the pride of a job well done**
+6. **Optimizing**, **debugging**, **profiling** until you reach the final version
+7. The **aha** moment when you find out why
+8. And finally, **the pride of a job well done**
 
 ## Enter AI
 
@@ -39,11 +40,11 @@ Step 1 will undoubtedly remain—you still need to convey the requirements to th
 
 Step 2 is atrophying. It's easy to let the AI run free or just ask it for options and a recommendation.
 
-Step 3 was never the most interesting part, and it's where AI is unbeatable.
+Step 3 is nearly gone. Sure, you can nitpick the AI into doing exactly what you want, but since AI will likely maintain the code too, what's the point? And when you do try, you either spend so much time you could have done it yourself, or you give up because these abstract concerns are already hard to convey to a human, let alone an AI.
 
-Step 4 is nearly gone. Sure, you can nitpick the AI into doing exactly what you want, but since AI will likely maintain the code too, what's the point? And when you do try, you either spend so much time you could have done it yourself, or you give up because these abstract concerns are hard to convey to an AI.
+Step 4 was never the most interesting part, and it's where AI is unbeatable.
 
-Steps 5 and 6 are disappearing too.
+Steps 5 and 6 are disappearing too-and with them, step 7.
 
 And once you're done—can you really feel proud of work you didn't do?
 
@@ -55,17 +56,18 @@ True. But is it fun?
 
 The first time I did something new with AI, I found it interesting and fun. A bit like the first time I installed Linux.
 
-After the third reinstall? Boring as hell.
+After the third reinstall? Boring as hell!
 
 With AI, it's the same:
 
-- My first specs co-written with AI? Brilliant.
-- My first vibe-coded project? Awesome.
-- My first skill that worked perfectly? Incredible.
+- My first Cursor TAB? Wow.
+- My first specs co-written with Claude? Amazing.
+- My first vibe-coded project? Eye-opening.
+- My first skill that worked perfectly? Almost magical.
 
 But the ones after that? Not fun. Just another Linux install.
 
-Writing new software, discovering a new algorithm, creating a reasonably complex piece of code—these things are interesting the first time *and* every time after.
+Writing new software, discovering a new algorithm, creating a [reasonably complex piece of code](/posts/you-dont-need-kafka-building-a-simple-yet-distributed-scheduler/)—these things are interesting the first time *and* every time after.
 
 ## Where I land
 
