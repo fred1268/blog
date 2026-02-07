@@ -2,7 +2,7 @@
 title = "The Lego generation, AI edition: how developers stopped learning and learned to love the prompt"
 date = "2025-12-12T20:46:09+01:00"
 author = ""
-cover = ""
+cover = "covers/the-lego-generation.png"
 tags = ["ai", "programming", "career"]
 keywords = ["developer evolution", "ai coding", "stack overflow", "copy paste programming", "learning", "Dr Dobb's", "software development history"]
 description = "From books and magazines to Google, Stack Overflow, and now AI prompts—a journey through how developers have learned (and stopped learning) over four generations. A follow-up to 'The Lego Generation' for the AI era."
