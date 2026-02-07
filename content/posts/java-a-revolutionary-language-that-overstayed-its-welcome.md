@@ -66,8 +66,6 @@ Even C#, which launched just a few years after Java, managed to stay more cohere
 
 So here we are, stuck with a language that feels increasingly antiquated, slowly declining but somehow never quite dying.
 
-## Conclusion
-
 I'll be honest: I genuinely loved Java in its early years. It was exciting. It was new. It represented real progress in how we built software.
 
 But languages, like all technologies, have their time. Java's time was the late '90s through the early 2010s. Today, it lingers on—not because it's the best tool for the job, but because the cost of leaving is too high.

@@ -67,6 +67,4 @@ So how do you decide?
 - If you value structure, stability, and quality of life above all else, go with the big company.
 - If you want to ship, learn, contribute, and have real impact, a startup is probably for you.
 
-## Conclusion
-
 Take the time to try both if you can—ideally during internships, before you've committed to a path. This choice matters more than most people realize, and the earlier you figure out what suits you, the better off you'll be.
