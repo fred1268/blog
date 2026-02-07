@@ -2,7 +2,7 @@
 title = "Why I code: it was never about the output"
 date = "2026-01-05T17:50:17+01:00"
 author = ""
-cover = ""
+cover = "covers/why-i-code-it-was-never-about-the-output.png"
 tags = ["ai", "programming", "career"]
 keywords = ["ai coding", "joy of programming", "software craftsmanship", "intellectual challenge", "developer experience", "coding motivation"]
 description = "AI has transformed how we write code, but programming was never just about the output. A reflection on what makes coding an intellectual game—and whether that joy survives when AI does the heavy lifting."

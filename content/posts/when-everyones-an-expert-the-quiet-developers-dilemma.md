@@ -2,7 +2,7 @@
 title = "When everyone's an expert: the quiet developer's dilemma"
 date = "2025-10-25T19:55:04+01:00"
 author = ""
-cover = ""
+cover = "covers/when-everyones-an-expert-the-quiet-developers-dilemma.png"
 tags = ["ai", "career", "programming"]
 keywords = ["impostor syndrome", "ai-generated code", "developer productivity", "software quality", "quiet developer", "social media", "code review"]
 description = "In a world where everyone has an opinion and AI lets people ship thousands of lines daily, quiet developers who value quality over quantity can feel left behind. A reflection on staying grounded when the benchmarks have shifted."
