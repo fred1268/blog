@@ -55,7 +55,7 @@ Machines couldn't do the work. After 850 years of settlement, nothing in the cat
 
 The Industrial Revolution threatened livelihoods. The AI revolution may threaten something deeper.
 
-Manual skills took humanity hundreds, perhaps thousands of years to develop. But thinking—the capacity for reason, abstraction, creativity—took millions of years of evolution. And unlike a muscle that can rest, the mind requires constant stimulation to stay sharp. That's precisely what AI threatens to take away.
+Manual skills took humanity hundreds, perhaps thousands of years to develop. But thinking—the capacity for reason, abstraction, creativity—took millions of years of evolution. And unlike a muscle that can rest, the mind requires constant stimulation to stay sharp. That's precisely what AI threatens to take away—something I've explored in [how developers learn](/posts/the-lego-generation/) and [its AI sequel](/posts/the-lego-generation-ai-edition/).
 
 There's another difference. Much of our manual knowledge could be written down, preserved, taught. Our intellectual potential is harder to capture. It's not just what we know—it's our capacity to generate new knowledge. That's not so easily stored.
 

@@ -37,7 +37,7 @@ The constructs are simple, making Go approachable for beginners. But don't mista
 
 The Go team doesn't add features lightly. Generics didn't arrive until 1.18 (2022). Iterators came in 1.23 (2024). Each addition is deliberate.
 
-This stands in stark contrast to C++, Java, or C#, where it often feels like an arms race rather than a coherent vision. In Go, the language evolves thoughtfully.
+This stands in stark contrast to C++, Java, or C#, where it often feels like an arms race rather than a coherent vision. I've [written before](/posts/java-a-revolutionary-language-that-overstayed-its-welcome/) about how Java lost its way by chasing trends. In Go, the language evolves thoughtfully.
 
 ### A magnificent standard library
 

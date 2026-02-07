@@ -44,7 +44,7 @@ You won't have control over the tools you use daily—your toolchain, CI pipelin
 
 And then there's the politics. Decisions aren't always made for the good of the company or the customer—they're made to win favor or avoid stepping on toes. It's not exactly inspiring if you want to have impact, move fast, and learn.
 
-That said, big companies do offer exposure to systems operating at a scale you'll rarely see elsewhere—and occasionally, the chance to meet truly exceptional people you'd almost never encounter in a startup.
+That said, big companies do offer exposure to systems operating at a scale you'll rarely see elsewhere—though [that scale is often less technically complex](/posts/the-myth-of-technical-complexity-at-scale/) than you'd expect—and occasionally, the chance to meet truly exceptional people you'd almost never encounter in a startup.
 
 ### The startup experience
 
