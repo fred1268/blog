@@ -1,6 +1,6 @@
 +++
 title = "Why I code: it was never about the output"
-date = "2026-02-05T17:50:17+01:00"
+date = "2026-01-05T17:50:17+01:00"
 author = ""
 cover = ""
 tags = ["ai", "programming", "career"]

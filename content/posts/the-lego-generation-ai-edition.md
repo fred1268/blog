@@ -1,6 +1,6 @@
 +++
 title = "The Lego generation, AI edition: how developers stopped learning and learned to love the prompt"
-date = "2026-01-12T20:46:09+01:00"
+date = "2025-12-12T20:46:09+01:00"
 author = ""
 cover = ""
 tags = ["ai", "programming", "career"]
