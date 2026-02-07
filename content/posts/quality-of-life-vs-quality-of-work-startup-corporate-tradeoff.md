@@ -2,7 +2,7 @@
 title = "Quality of life vs. quality of work: the startup-corporate tradeoff"
 date = "2025-04-30T21:08:00+01:00"
 author = ""
-cover = ""
+cover = "covers/quality-of-life-vs-quality-of-work-startup-corporate-tradeoff.png"
 tags = ["career", "startups", "tech"]
 keywords = ["startup", "big tech", "career advice", "software developer", "quality of life", "quality of work"]
 description = "Should you join a startup or a big company? This question matters more than you think. Explore the tradeoffs between quality of life and quality of work, and why your early career choices can shape your entire trajectory."
