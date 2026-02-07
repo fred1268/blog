@@ -62,7 +62,7 @@ Generics bolted on top of type erasure. Lambdas arriving decades late. Streams, 
 
 We're a long way from the clean minimalism of Go.
 
-Even C#, which launched just a few years after Java, managed to stay more coherent. But Java has this strange immunity: it revolutionized so much that we ~~can forgive it anything~~ ended up with massive codebases that are nearly impossible to migrate away from.
+Even C#, which launched just a few years after Java, managed to stay more coherent. But Java has this strange immunity: it revolutionized so much that ~~all is forgiven~~ we're now trapped in codebases too massive to migrate away from.
 
 So here we are, stuck with a language that feels increasingly antiquated, slowly declining but somehow never quite dying.
 
