@@ -3,3 +3,26 @@
   --foreground: #10540e;
   --accent: #1bbc68;
 }
+
+/* Blinking terminal cursor for heading anchors */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.hanchor {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  margin-left: 8px !important;
+}
+
+.hanchor::after {
+  content: "";
+  display: inline-block;
+  font-size: 1rem;
+  width: 0.6em;
+  height: 1.2em;
+  background-color: var(--accent);
+  vertical-align: middle;
+  animation: blink 1s step-end infinite;
+}
