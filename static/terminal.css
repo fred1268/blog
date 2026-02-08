@@ -26,3 +26,15 @@
   vertical-align: middle;
   animation: blink 1s step-end infinite;
 }
+
+/* Blinking cursor for Table of Contents title */
+.table-of-contents h2:hover::after {
+  content: "";
+  display: inline-block;
+  width: 0.6em;
+  height: 0.9em;
+  margin-left: 8px;
+  background-color: var(--accent);
+  vertical-align: baseline;
+  animation: blink 1s step-end infinite;
+}
