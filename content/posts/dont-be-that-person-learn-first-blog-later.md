@@ -87,4 +87,4 @@ Before writing hot takes about performance, ask yourself a few questions:
 
 3. **Have I looked at how others solve this?** When building something that resembles an existing concept (like a cache), study how reference implementations handle their API and architecture.
 
-Don't be that person. Take the time to understand before you publish.
+So don't be that person: take the time to understand before you publish.

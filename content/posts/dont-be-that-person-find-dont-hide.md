@@ -54,4 +54,4 @@ If you ever find yourself in this situation, resist the urge to hide the problem
 
 When you sweep bugs under the rug, you're not just leaving a ticking time bomb for your colleagues—you're also robbing yourself of an opportunity to learn and grow as an engineer. Every hard bug you solve makes you better at your craft.
 
-So please: find, don't hide.
+So don't be that person: find, don't hide.

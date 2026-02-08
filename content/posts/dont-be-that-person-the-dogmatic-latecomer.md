@@ -55,4 +55,4 @@ Start by understanding its historical context—why was it invented, what proble
 
 And remember: truly universal techniques are rare. Most appear and disappear based on the specific problems at hand. Our industry's pace of change is simply incompatible with dogmatism.
 
-So don't be that person. Think before you implement. Understand before you preach. And regularly question your past choices against present realities—what made sense five years ago might be baggage today.
+So don't be that person: think before you implement. Understand before you preach. And regularly question your past choices against present realities—what made sense five years ago might be baggage today.
