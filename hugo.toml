@@ -1,6 +1,6 @@
 baseURL = 'https://overco.de/'
 languageCode = 'en-us'
-title = 'Overcode'
+title = 'OVERCODE'
 theme = 'terminal'
 copyright = 'Copyright © Fred, 2020-2026'
 pagination.pagerSize = 5
@@ -69,7 +69,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Overcode"
+    title = "OVERCODE"
 
     [languages.en.params]
       subtitle = "Reflections on code, craft, and the realities of a developer's career"
@@ -87,7 +87,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Overcode"
+        logoText = "OVERCODE"
         logoHomeLink = "/"
 
       [languages.en.menu]
