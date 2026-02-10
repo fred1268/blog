@@ -72,7 +72,7 @@ pagination.pagerSize = 5
     title = "OVERCODE"
 
     [languages.en.params]
-      subtitle = "Reflections on code, craft, and the realities of a developer's career"
+      subtitle = "A developer and CTO's honest reflections on code, craft, and career"
       owner = ""
       keywords = "programming, software engineering, career, Go, Rust, technical interviews, AI, startups, big tech, code quality, developer experience"
       copyright = "Copyright © Fred, 2020-2026"
