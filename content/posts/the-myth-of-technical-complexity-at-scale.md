@@ -25,7 +25,7 @@ The first is communication. As the number of teams grows, the complexity of coor
 
 The second is ownership. Early employees tend to care deeply about the product—they built it, after all. But as companies grow and new engineers join, that sense of ownership dilutes. The codebase becomes something you work *in*, not something you own.
 
-These two forces combine to create what we politely call "organizational complexity," but what often looks more like politics. Need something from another team? You'll have to convince them it's worth their time—or negotiate a compromise that delivers half of what users actually need. And when errors pile up in production? Well, as long as nobody gets paged at 3 AM, it's easier to roll back or slap a workaround on it than to actually fix the root cause.
+These two forces combine to create what we politely call "organizational complexity", but what often looks more like politics. Need something from another team? You'll have to convince them it's worth their time—or negotiate a compromise that delivers half of what users actually need. And when errors pile up in production? Well, as long as nobody gets paged at 3 AM, it's easier to roll back or slap a workaround on it than to actually fix the root cause.
 
 ## The Gack Watchers
 
