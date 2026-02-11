@@ -1,9 +1,9 @@
 +++
 title = "Where did all the computing power go?"
-date = "2025-03-01T10:00:00+01:00"
+date = "2025-03-09T10:48:21+01:00"
 author = ""
 authorTwitter = ""
-cover = ""
+cover = "covers/where-did-all-the-computing-power-go.png"
 tags = ["software", "performance"]
 keywords = ["bloatware", "software efficiency", "computing power", "performance", "resource consumption", "climate", "optimization"]
 description = "From kilobytes to terabytes, from MHz to GHz, our computers are millions of times more powerful than they were decades ago. Yet everyday tasks don't feel much faster. Where did all that power go? Perhaps it's time for intentional computing."
@@ -12,17 +12,17 @@ readingTime = true
 hideComments = true
 +++
 
-## The good old days
+## When bytes mattered
 
 When I started in computing, we talked about KiB and MHz. And of course, there was only one CPU core to handle everything. Those constraints shaped how we thought about software: every byte mattered, every cycle counted.
 
-Since then, thankfully, we've gained access to exponentially more power. Today we talk about GiB and TiB as well as GHz, and it's not unusual to have twenty or more cores—not even counting GPUs and dedicated AI chips. Even the earliest smartphones were considerably more powerful than my first personal computer.
+Since then, thankfully, we've gained access to exponentially more power. Today we talk about GiB and TiB as well as GHz, and it's not unusual to have twenty or more cores—not even counting GPUs and dedicated AI chips. Even the earliest smartphones were considerably more powerful than my first few personal computers.
 
 ## The numbers don't add up
 
 Compared to those early machines, we now have roughly 20,000 times the CPU power, a million times the RAM and storage.
 
-And yet, almost everything we did back then still feels nearly as slow today. My source files aren't any bigger. My compiler doesn't build projects 20,000 times faster—in fact, it's often significantly slower. My applications don't launch a million times quicker. So we have to ask: where did all that extra power go?
+And yet, almost everything we did back then still feels nearly as slow today. My source files aren't any bigger. My compiler doesn't build projects any faster—in fact, it's often significantly slower. My applications don't launch a million times quicker. So we have to ask: where did all that extra power go?
 
 ## New capabilities, new demands
 
