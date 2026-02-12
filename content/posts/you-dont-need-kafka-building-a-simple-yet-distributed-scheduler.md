@@ -1,5 +1,5 @@
 +++
-title = "You don't need Kafka: building a simple yet distributed scheduler"
+title = "You don't need Kafka: building a simple yet distributed scheduler in Go"
 date = "2024-07-07T12:21:12+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
