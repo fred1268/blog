@@ -55,6 +55,7 @@ body {
   border-radius: 20px;
   overflow: hidden;
   max-width: 640px;
+  margin: 30px 0;
   box-shadow:
     0 0 12px rgba(27, 188, 104, 0.5),
     0 0 30px rgba(27, 188, 104, 0.3),
