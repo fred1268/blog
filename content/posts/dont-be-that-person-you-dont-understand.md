@@ -31,7 +31,7 @@ I'll be honest: my blood boiled for a second.
 
 But here's the beauty of written communication — you get a beat before you respond. So instead of firing back, I paused and thought: maybe I *did* miss something. I went back and carefully reread everything he'd written. Meanwhile, he was already typing out a new explanation of what I'd apparently been too slow to grasp.
 
-When his "clarification" arrived, I could compare it side by side with what he'd originally written. And — surprise — the two had very little in common. What he meant and what he'd actually written were worlds apart.
+When his "clarification" arrived, I could compare it side by side with what he'd originally written. And — surprise — reading the first, you'd never guess he meant the second. The thought was there; the words weren't.
 
 I didn't point that out. I just continued the conversation, thanked him for the input, and told him I'd keep investigating.
 
