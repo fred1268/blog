@@ -47,3 +47,56 @@ body {
   vertical-align: middle;
   animation: blink 1s step-end infinite;
 }
+
+/* CRT monitor effect for cover images */
+.crt-monitor {
+  position: relative;
+  display: block;
+  border-radius: 20px;
+  overflow: hidden;
+  max-width: 640px;
+  box-shadow:
+    0 0 12px rgba(27, 188, 104, 0.5),
+    0 0 30px rgba(27, 188, 104, 0.3),
+    0 0 50px rgba(27, 188, 104, 0.2);
+}
+
+.post-cover {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+}
+
+/* Vignette overlay */
+.crt-overlay {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse at center,
+    transparent 20%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  pointer-events: none;
+  border-radius: inherit;
+  z-index: 2;
+}
+
+/* Scanlines */
+.crt-scanlines {
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 3px,
+    rgba(0, 0, 0, 0.25) 3px,
+    rgba(0, 0, 0, 0.25) 6px
+  );
+  pointer-events: none;
+  border-radius: inherit;
+  z-index: 2;
+}
