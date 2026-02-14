@@ -23,7 +23,7 @@ What has always fascinated me about space telescopes like Hubble or James Webb i
 
 In a surprisingly similar way, what we see of Google today is essentially their response from years ago to problems that were already old when they started solving them.
 
-Think about it. Say Google encountered a problem in the early 2000s. It became painful after a few years. They experimented with solutions, iterated, refined. By then it's 2008, maybe 2010. They let the solution mature for several more years before declaring victory internally. Then they share it with the world—and suddenly it's 2018. Where are they now? Probably somewhere entirely different.
+Think about it. Say Google encountered a problem in the early 2000s. It became painful after a few years. They experimented with solutions, iterated, refined. By then it's — what, 2008? 2010? Who knows. They let the solution mature for several more years before declaring victory internally. Then they share it with the world—and suddenly it's 2018. Where are they now? Probably somewhere entirely different.
 
 This is more or less the story of OKRs at Google.
 
@@ -39,13 +39,13 @@ This means that when you implement [insert the latest Google trend you've read a
 
 When Google started, they had two real options for building web applications: C++ or PHP. They chose C++. (Facebook, a few years later, would choose PHP). This decision was profoundly structural—you don't reverse course on a core technology choice like that, especially during hypergrowth.
 
-Add to this Google's acquisition appetite. Each company brought its own codebase, its own tech stack, its own way of doing things. The complexity compounded. So Google built solutions: the monorepo, then Bazel, then everything that came after.
+Add to this Google's acquisition appetite. Each company brought its own codebase, its own tech stack, its own way of doing things. The complexity compounded. So Google built solutions: the monorepo, then Bazel, and everything that came before and after.
 
 But what about you? Maybe you started your company a few years ago in Java, TypeScript, or Python. You haven't acquired dozens of other companies. Your codebase has a few million lines of code at most. Yet you've read those compelling case studies about Google's monorepo and Bazel. They sound impressive.
 
 And perhaps you've hired engineers who spent the formative years of their careers at Google. For them, the monorepo isn't a solution to a specific problem—it's just how things are done. It's the norm they've internalized, the only environment they've known. When Google is your reference point, it's natural to want to replicate what worked there.
 
-So you adopt a monorepo with Bazel. A sophisticated answer from another era, designed for problems you've never faced.
+So you adopt a monorepo with Bazel. A sophisticated answer from another era, designed for problems you've never faced — and suddenly you've created yourself a whole new class of problems you didn't have before.
 
 ## The takeaway
 
