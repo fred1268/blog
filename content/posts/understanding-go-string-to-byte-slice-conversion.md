@@ -77,7 +77,7 @@ Could I have figured this out without all this exploration? Absolutely. If I had
 
 ### Choose the right tool for the job
 
-Finally, if you find yourself needing to do this kind of thing in Go, maybe Go isn't the right language for your use case. Rust gives you much finer control over memory management and makes conversions like this explicit, rather than relying on implicit conventions like "don't modify the `[]byte` after conversion."
+Finally, if you find yourself needing to do this kind of thing in Go, maybe Go isn't the right language for your use case. Rust gives you much finer control over memory management and makes conversions like this explicit, rather than relying on implicit conventions like "don't modify the `[]byte` after conversion".
 
 ## Conclusion
 

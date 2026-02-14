@@ -53,7 +53,7 @@ Perhaps the most beautiful thing about Go is its commitment to compatibility—b
 
 ## The drawbacks are minor
 
-Sure, Go has its annoyances. The error handling is verbose—Rust's approach with `Result` and `?` is cleaner and more modern. And one might wonder why the Go team chose `[]` for generics instead of `<>`. (I suspect it was to maintain compatibility with the pre-generics `map` syntax, but I'm not certain.)
+Sure, Go has its annoyances. The error handling is verbose—Rust's approach with `Result` and `?` is cleaner and more modern. And one might wonder why the Go team chose `[]` for generics instead of `<>`. (I suspect it was to maintain compatibility with the pre-generics `map` syntax, but I'm not certain).
 
 These quirks, as tedious as they can be, pale in comparison to what Go gets right.
 

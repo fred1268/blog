@@ -41,7 +41,7 @@ Here's the thing: what he eventually said was genuinely worth considering. But t
 
 How arrogant do you have to be to assume that you've expressed yourself so perfectly that it is the other person who is simply too dense to follow? And even if the other person *did* misunderstand — how does telling them "you don't understand" help your case? All it does is put them on the defensive and kill the conversation.
 
-I've been in that situation plenty of times — where two people are just not connecting. But I never phrase it that way. What I usually say is something like: "I probably didn't explain that well — what I mean is..." It's so much easier for the other person to hear. It doesn't put them in an inferior position, which means the conversation can keep going without tension.
+I've been in that situation plenty of times — where two people are just not connecting. But I never phrase it that way. What I usually say is something like: "I probably didn't explain that well — what I mean is ... ". It's so much easier for the other person to hear. It doesn't put them in an inferior position, which means the conversation can keep going without tension.
 
 Sure, there will always be people who interpret that kind of humility as weakness — who'll think you're clueless because you admitted you *might* have been unclear. But whenever that happens, I remind myself of a wonderful saying: "Being thought a fool by a fool — now that's a rare delicacy".
 

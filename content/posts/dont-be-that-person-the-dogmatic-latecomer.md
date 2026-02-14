@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-The other day I met a relatively young developer who was talking to me about CQRS. Nothing wrong with that—except it wasn't really a discussion. No weighing pros and cons, no "here's when it makes sense." More like uncritical evangelism, as if CQRS were the latest breakthrough about to revolutionize everything.
+The other day I met a relatively young developer who was talking to me about CQRS. Nothing wrong with that—except it wasn't really a discussion. No weighing pros and cons, no "here's when it makes sense". More like uncritical evangelism, as if CQRS were the latest breakthrough about to revolutionize everything.
 
 In the 2020s.
 

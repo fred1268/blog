@@ -27,7 +27,7 @@ This is precisely the dilemma facing junior developers. They don't yet have much
 
 To be clear, AI isn't inherently bad for juniors. But it can create a dangerous illusion of progress.
 
-It's easier to hit Enter, Enter, Enter and accept the AI's suggestions than to actually understand them. The sheer volume of code produced gives the impression of being "at the right level." But quantity isn't competence.
+It's easier to hit Enter, Enter, Enter and accept the AI's suggestions than to actually understand them. The sheer volume of code produced gives the impression of being "at the right level". But quantity isn't competence.
 
 That said, AI can also be a powerful pedagogical tool when used intentionally. It can demonstrate patterns, explain constructs, and point to references. The key word is *references*—you still need to verify everything yourself. AI hallucinates. A lot. Treating its output as a starting point for learning rather than an answer is what separates growth from stagnation.
 

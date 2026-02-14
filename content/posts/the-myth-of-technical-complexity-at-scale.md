@@ -35,7 +35,7 @@ But at Salesforce, there were no adjustments to make. Instead, our job was to wa
 
 You see, the existing logs were so polluted with unaddressed errors that the only way to spot a genuine new problem was to have human eyes scanning for unfamiliar patterns. They called us "Gack Watchers"—don't ask me where the name came from.
 
-When I asked about this, the answer was almost philosophical: "You have to understand, with this many users, there are bound to be errors. It's normal."
+When I asked about this, the answer was almost philosophical: "You have to understand, with this many users, there are bound to be errors. It's normal".
 
 I found that hard to accept. At my previous company, we'd run a web application with clients handling up to 40,000 concurrent users—which translates to a much larger total user base. And yet our logs were clean. Zero errors, unless there was an actual bug to fix.
 
@@ -47,7 +47,7 @@ Code is functionally deterministic. Given the same inputs, it produces the same 
 
 So I'll say it plainly: well-written code should not produce errors under normal operation. And yet, I see more and more systems spewing exceptions like it's perfectly acceptable behavior. The worst part? Nobody seems to care. Teams normalize it. Downstream systems inherit those errors, add their own, and the whole thing compounds into a cascade of incidents.
 
-And no, I refuse to believe that dozens of incidents per day is "normal." Some incidents are inevitable, of course. But thirty, forty, eighty a day? That's not scale—that's neglect.
+And no, I refuse to believe that dozens of incidents per day is "normal". Some incidents are inevitable, of course. But thirty, forty, eighty a day? That's not scale—that's neglect.
 
 ## The uncomfortable truth
 

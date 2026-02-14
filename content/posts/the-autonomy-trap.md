@@ -13,11 +13,11 @@ readingTime = true
 hideComments = true
 +++
 
-There was a time when the all-powerful boss decided everything. "Do this, do that." Total alienation, demotivation, dictatorship. Nobody misses that era.
+There was a time when the all-powerful boss decided everything. "Do this, do that". Total alienation, demotivation, dictatorship. Nobody misses that era.
 
-Then came what some called "participative management." The manager still made the final call, but took time to explain, listen, and sometimes adjust objectives based on feedback. The manager owned the strategy's failure; the team owned its success. A reasonable balance.
+Then came what some called "participative management". The manager still made the final call, but took time to explain, listen, and sometimes adjust objectives based on feedback. The manager owned the strategy's failure; the team owned its success. A reasonable balance.
 
-But that time seems to be over. Now I keep encountering startups where I'm told "here, teams decide" or "our teams are autonomous." On paper, it sounds wonderful. In practice—having tested it multiple times—the reality is very different.
+But that time seems to be over. Now I keep encountering startups where I'm told "here, teams decide" or "our teams are autonomous". On paper, it sounds wonderful. In practice—having tested it multiple times—the reality is very different.
 
 ## The experience problem
 
