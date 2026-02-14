@@ -37,7 +37,7 @@ This means that when you implement [insert the latest Google trend you've read a
 
 ## The monorepo example
 
-When Google started, they had two real options for building web applications: C++ or PHP. They chose C++. (Facebook, a few years later, would choose PHP). This decision was profoundly structural—you don't reverse course on a core technology choice like that, especially during hypergrowth.
+When Google started, they had two real options for building web applications: C++ or PHP. They chose C++ (Facebook, a few years later, would choose PHP). This decision was profoundly structural—you don't reverse course on a core technology choice like that, especially during hypergrowth.
 
 Add to this Google's acquisition appetite. Each company brought its own codebase, its own tech stack, its own way of doing things. The complexity compounded. So Google built solutions: the monorepo, then Bazel, and everything that came before and after.
 
@@ -45,7 +45,7 @@ But what about you? Maybe you started your company a few years ago in Java, Type
 
 And perhaps you've hired engineers who spent the formative years of their careers at Google. For them, the monorepo isn't a solution to a specific problem—it's just how things are done. It's the norm they've internalized, the only environment they've known. When Google is your reference point, it's natural to want to replicate what worked there.
 
-So you adopt a monorepo with Bazel. A sophisticated answer from another era, designed for problems you've never faced — and suddenly you've created yourself a whole new class of problems you didn't have before.
+So you adopt a monorepo with Bazel. A sophisticated answer from another era, designed for challenges you've never faced — and suddenly you've created yourself a whole new class of problems you didn't have before.
 
 ## The takeaway
 

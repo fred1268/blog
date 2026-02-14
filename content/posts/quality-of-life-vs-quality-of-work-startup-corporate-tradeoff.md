@@ -52,7 +52,7 @@ Startups are a refreshing contrast—chaotic, but refreshing.
 
 When you're lucky, there are some tools to help you. When you're not, you're on your own. But here's the upside: when something breaks, you have to figure it out yourself, and you have end-to-end ownership to do so.
 
-Sure, it's harder than just posting a message in another team's Slack channel. But the reward is proportional. You understand the problem deeply. You ship faster. Your feedback loop shrinks dramatically, and so does your learning curve.
+Sure, it's harder than just posting a message in another team's Slack channel. But the reward is proportional. You understand the problem deeply. You ship faster. Your feedback loop shrinks dramatically, and so does the time it takes to learn.
 
 The tradeoff? You probably won't learn many formal processes, and your only way of working might end up being duct tape, caffeine, and sheer willpower.
 

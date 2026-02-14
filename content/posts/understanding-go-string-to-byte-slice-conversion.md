@@ -23,7 +23,7 @@ At first glance, this seemed odd. Was the author really reimplementing the stand
 
 ## The initial analysis
 
-Looking at this code, it was clear this had to be some kind of optimization—most likely a memory optimization. But logically, a simple cast should just transform the data, not create a new copy of it... right?
+Looking at this code, it was clear this had to be some kind of optimization—most likely a memory optimization. But logically, a simple cast should just interpret the data (like in C), not create a new copy of it... or shouldn't it?
 
 To find out, I headed over to my favorite tool, [Godbolt](https://godbolt.org/z/TezMhMhY8), and compiled a simple `[]byte(s)` conversion. Here's what the assembly revealed:
 
@@ -71,7 +71,7 @@ First and foremost, don't take things at face value—dig into the "why" yoursel
 
 ### Casts aren't always free
 
-Second, a cast isn't always a trivial operation. Sometimes it reinterprets the data in place, and sometimes it converts it (with allocation). In this specific case, it's a conversion. Rust, by the way, would have made this distinction much more explicit.
+Second, a cast isn't always a trivial operation. Sometimes it reinterprets the data in place, and sometimes it converts it (with allocation). In this specific case, it's a conversion. Rust, by the way, would probably have made this distinction much more explicit.
 
 Could I have figured this out without all this exploration? Absolutely. If I had taken the time to think more carefully about string immutability in Go, it would have been obvious that a simple reinterpretation—turning something immutable into something mutable—couldn't possibly be what's happening here.
 

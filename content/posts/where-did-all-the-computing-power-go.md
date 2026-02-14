@@ -22,7 +22,7 @@ Since then, thankfully, we've gained access to exponentially more power. Today w
 
 Compared to those early machines, we now have roughly 20,000 times the CPU power, a million times the RAM and storage.
 
-And yet, almost everything we did back then still feels nearly as slow today. My source files aren't any bigger. My compiler doesn't build projects any faster—in fact, it's often significantly slower. My applications don't launch a million times quicker. So we have to ask: where did all that extra power go?
+Still, almost everything we did back then feels nearly as slow today. My source files aren't any bigger. And yet my compiler doesn't build projects any faster—in fact, it's often significantly slower. My applications don't launch a million times quicker. So we have to ask: where did all that extra power go?
 
 ## New capabilities, new demands
 

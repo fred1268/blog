@@ -44,7 +44,7 @@ The irony (or perhaps the frustrating part) is that this pattern appeared in mul
 
 The fix was straightforward: properly handle the lock/unlock with a deferred unlock, add actual logging to the panic handler, and then wait for the problem to resurface so we could identify and fix the true root cause.
 
-## Don't Be That Person
+## Resist the Band-Aid
 
 It's easy to mask the consequences of a problem. It's much harder to actually fix its root cause. But taking the harder path always pays off in the end.
 
