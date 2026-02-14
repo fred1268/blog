@@ -29,7 +29,7 @@ This is more or less the story of OKRs at Google.
 
 ## Two things to keep in mind
 
-First, you are not Google. Not even close.
+First, you are not Google. And that's fine.
 
 Second, at the scale of our industry—young and constantly evolving—what you read about Google today is essentially a polished, industrial-age answer to what were already medieval problems. By the time their solutions reach you, both the problems and the solutions have aged considerably.
 

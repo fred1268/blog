@@ -11,7 +11,7 @@ readingTime = true
 hideComments = true
 +++
 
-You know that person on the team who speaks without knowing. The one with strong opinions on subjects they're not qualified to discuss. When I started my career, you'd run into them occasionally. Now they're everywhere.
+You know that person on the team who always has an opinion—even on topics outside their expertise. When I started my career, you'd run into them occasionally. Now they're everywhere.
 
 ## The social media effect
 

@@ -31,7 +31,7 @@ After decades of cross-pollination, most mainstream languages offer similar feat
 
 They're not.
 
-The difference lies in completeness, integration, and performance. Some languages bolted on features as afterthoughts; others were designed with them from the start. Some ecosystems are cohesive; others are a patchwork of competing tools. And when you look at it objectively, several popular languages have simply been surpassed.
+The difference lies in completeness, integration, and performance. Some languages bolted on features as afterthoughts; others were designed with them from the start. Some ecosystems are cohesive; others are a patchwork of competing tools. And honestly, several popular languages have simply been surpassed.
 
 This doesn't mean you should never touch them again. Retro gaming exists. People restore and drive vintage cars. If you love Ruby or PHP, by all means enjoy them in your side projects—there's genuine pleasure in that.
 
@@ -39,7 +39,7 @@ This doesn't mean you should never touch them again. Retro gaming exists. People
 
 But starting a professional project is different. When you're building something meant to last, to scale, to be maintained by a team over years—that's when technology choices matter deeply.
 
-Languages like Go and Rust represent the current state of the art. They're not perfect, and something will eventually replace them. But right now, choosing JavaScript or PHP for a new backend isn't just suboptimal—it's choosing yesterday's answer for tomorrow's problems.
+Languages like Go and Rust represent the current state of the art. They're not perfect, and something will eventually replace them. But right now, choosing JavaScript or PHP for a new backend is often choosing yesterday's answer for tomorrow's problems.
 
 I wrote about [Java's trajectory](/posts/java-a-revolutionary-language-that-overstayed-its-welcome/) not long ago—a language that was genuinely revolutionary in 1995 but has struggled to evolve gracefully. The same pattern applies elsewhere. Languages that were cutting-edge twenty years ago aren't necessarily the right choice today.
 

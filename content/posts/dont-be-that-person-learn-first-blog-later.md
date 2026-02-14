@@ -23,7 +23,7 @@ When I opened the article, the first thing I noticed was that the title had chan
 
 Still, I dove in. The gist was that the author was using a sentinel error in Go, which gets wrapped inside other errors as it bubbles up the call stack. To check for it, they used `errors.Is()`, which traverses the error chain recursively.
 
-You don't need to be a wizard to understand that `errors.Is()` will be slower than a simple comparison—it has to unwrap potentially nested errors. A quick look at the source code makes this obvious:
+It's fairly clear that `errors.Is()` will be slower than a simple comparison—it has to unwrap potentially nested errors. A quick look at the source code makes this obvious:
 
 ```go
 func Is(err, target error) bool {
