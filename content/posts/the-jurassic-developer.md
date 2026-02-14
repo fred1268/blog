@@ -19,7 +19,11 @@ Before I even started my career, I had already written a lot of code. Not beauti
 
 I learned Basic first, but quickly moved on to Pascal and Assembly Language. Pascal became my go-to for writing tooling: sine and cosine table generators, sprite animation tools, and various other utilities I needed for my real passion at the time.
 
-That passion was the [demoscene](https://en.wikipedia.org/wiki/Demoscene) — a subculture dedicated to pushing hardware to its absolute limits. If you want to see what the demoscene looks like today, [Assembly](https://demoscene.assembly.org/) in Finland is one of the biggest events still running. I helped create one of the first demo groups on PC in my country, and we released a couple of demos that I'm still proud of. I also wrote some self-replicating code that could hide itself in RAM and on disk — the kind of thing that taught you how computers *really* worked at the lowest level.
+That passion was the [demoscene](https://en.wikipedia.org/wiki/Demoscene) — a subculture dedicated to pushing hardware to its absolute limits.
+
+> If you want to see what the demoscene looks like today, [Assembly](https://demoscene.assembly.org/) in Finland is one of the biggest events still running.
+
+I helped create one of the first demo groups on PC in my country, and we released a couple of demos that I'm still proud of. I also wrote some self-replicating code that could hide itself in RAM and on disk — the kind of thing that taught you how computers *really* worked at the lowest level.
 
 Did I consider myself a "senior" back then? Of course not. I was just a kid playing with computers.
 
@@ -47,4 +51,4 @@ This isn't a criticism of any individual — it's just the reality of how modern
 
 If four years make you Senior, what shall I be called?
 
-The Jurassic developer?
+Jurassic developer?
