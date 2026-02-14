@@ -33,11 +33,11 @@ What we forget is that peers have even less experience evaluating performance th
 
 Picture it: there's someone on your team — super friendly, you get along great, maybe your families hang out on weekends. But honestly? They don't bring much energy to the work, and they're not particularly good at their job. Are you really going to write that in their peer feedback? Or are you going to let your affection for this charming friend-of-the-family color your assessment?
 
-And then these peer opinions influence the manager: "Well, if Sarah — who's a strong engineer — says good things about Tom, it must be true." The bias compounds.
+And then these peer opinions influence the manager. A strong engineer says good things about a teammate? Must be true. The bias compounds.
 
 It gets worse with promotions and reference checks. There, *you* get to choose who speaks on your behalf. As if anyone would ever name someone they clashed with as a reference. Let's be serious.
 
-This isn't unlike [the autonomy trap](/posts/the-autonomy-trap/) I've written about before — where we diffuse decision-making to feel more democratic, but end up with no one truly accountable. Here, we diffuse evaluation to feel more objective, but end up with bias wearing the mask of consensus.
+This isn't unlike [the autonomy trap](/posts/the-autonomy-trap/) — where we diffuse decision-making to feel more democratic, but end up with no one truly accountable. Here, we diffuse evaluation to feel more objective, but end up with bias wearing the mask of consensus.
 
 ## So what's the answer?
 
