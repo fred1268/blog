@@ -25,7 +25,7 @@ What I found was a function preceded by an enormous comment—over 30 lines long
 
 Oh, and that panic handler? It doesn't log anything at all. Silent failure at its finest.
 
-In other words: "Out of sight, out of mind. Nobody will notice."
+In other words: "Out of sight, out of mind. Nobody will notice".
 
 ## Finding the Real Bug
 
