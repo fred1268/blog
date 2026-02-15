@@ -37,7 +37,7 @@ Then came another decade where my team and I rode the early wave of Java and C#.
 
 ## What "senior" meant to me
 
-By that point, I had written a lot of very low-level code. I had programmed professionally in at least three different languages. I had built desktop applications, server backends, native mobile apps for both iOS and Android, and frontend code. My team and I had created software that handled massive load and required us to hunt down countless performance bottlenecks. We had built complete, fully reproducible CI/CD pipelines from scratch. I had worked with cloud providers, mainly AWS and Google.
+By that point, I had written a lot of very low-level code. I had programmed professionally in at least three different languages. I had built desktop applications, server backends, native mobile apps for both iOS and Android, and frontend code. My team and I had created software that handled massive load and required us to hunt down countless performance bottlenecks. We had built complete, fully reproducible CI/CD pipelines from scratch. I had worked with cloud providers.
 
 I'm not trying to brag — I'm just trying to paint a picture. By the time I considered myself senior, I had seen a lot of situations, solved a lot of problems, and made so many mistakes I'd learned from. To me, *that* was what seniority meant.
 

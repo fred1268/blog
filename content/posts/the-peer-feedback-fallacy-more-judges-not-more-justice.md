@@ -27,7 +27,7 @@ But why? A few reasons, really. Unlike a 100-meter dash, intellectual performanc
 
 ## Enter peer feedback
 
-So what did we do? We invented peer feedback. The thinking, presumably, is that if you multiply subjective opinions, the average would become... objective? That's... not how any of this works.
+So what did we do? We invented peer feedback. The thinking, presumably, is that if you multiply subjective opinions, the average would become... somehow... objective? That's not how any of this works.
 
 What we forget is that peers have even less experience evaluating performance than managers do. A manager might have training, coaching, years of practice. A peer? They're operating almost entirely on gut feeling and personal relationships.
 
