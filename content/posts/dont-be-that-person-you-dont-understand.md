@@ -45,8 +45,8 @@ I've been in that situation plenty of times — where two people are just not co
 
 Sure, there will always be people who interpret that kind of humility as weakness — who'll think you're clueless because you admitted you *might* have been unclear. But whenever that happens, I remind myself of a wonderful saying: "Being thought a fool by a fool — now that's a rare delicacy".
 
+So don't be that person: say it so they can hear it.
+
 >Before publishing this, I showed the original conversation to two other people and asked them if they understood the first version of my colleague's explanation.
 >
 >Neither of them did.
-
-So don't be that person: say it so they can hear it.
