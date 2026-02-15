@@ -1,6 +1,6 @@
 +++
 title = "Where did all the computing power go?"
-date = "2025-03-09T10:48:21+01:00"
+date = "2025-02-09T10:48:21+01:00"
 author = ""
 authorTwitter = ""
 cover = "covers/where-did-all-the-computing-power-go.png"
