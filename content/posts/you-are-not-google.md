@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-Google was founded in 1998 to revolutionize search—back when AltaVista and Yahoo dominated with their Yellow Pages-style directories. Since then, Google has grown into something unprecedented: over 250 acquisitions, 80,000 engineers, thousands of teams, and a monorepo so vast it's measured in billions of lines of code and millions of files. There's really nothing else quite like it.
+Google was founded in 1998 to revolutionize search—back when AltaVista and Yahoo dominated with their Yellow Pages-style directories. Since then, Google has grown into something unprecedented: over 250 acquisitions, 80,000 engineers, thousands of teams, and a monorepo so vast it's measured in billions of lines of code and millions of files. There's really nothing else quite like it—outside of a few other tech giants.
 
 But here's the thing: what you see of Google today isn't what Google is today. It's what Google was years ago. And that distinction matters more than you might think.
 

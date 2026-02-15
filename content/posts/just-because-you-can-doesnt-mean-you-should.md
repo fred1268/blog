@@ -49,4 +49,4 @@ If you're a non-technical founder, this is where you make a ten-year commitment 
 
 There's a difference between maintaining legacy code and *choosing* to start fresh with legacy tools. The world changes. Those languages still work—and probably always will. But newer ones solve the same problems with less friction, better tooling, and fewer footguns. Acknowledging that isn't elitism—it's pragmatism.
 
-Who would drive hundreds of miles for a vacation in a 1930s car? You could. But you probably shouldn't.
+Who would drive hundreds of miles for a vacation in a 1930s car? You could. But you wouldn't.
