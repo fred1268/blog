@@ -47,9 +47,11 @@ I come back to my original question: what exactly is a manager supposed to do in
 
 The manager is caught in a crossfire. On one side, there's the company's ambitions—decided at the executive level and cascaded down the hierarchy—that the manager is expected to deliver with their team. On the other, there are the ICs who will work on whatever they've decided to work on, because they were told they could.
 
-When the two align, everything works. But that's rarely the case.
+When the two align, everything works, and everyone's happy. But that's rarely the case.
 
-So the manager faces an impossible choice: let it happen and miss their objectives—which will tarnish their reputation—or try to steer the team's direction, at which point someone will inevitably remind them that "we were told we get to decide".
+So the manager faces an impossible choice: let it happen and miss their objectives—losing the trust of leadership above—or try to steer the team's direction, at which point someone will inevitably remind them that "we were told we get to decide"—losing the trust of the team below.
+
+Either way, trust is the casualty. Pick your direction.
 
 What's left for them?
 
