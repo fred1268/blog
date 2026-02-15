@@ -14,7 +14,7 @@ hideComments = true
 draft = true
 +++
 
-It's easy to laugh at other people's bad AI takes. More interesting—and more honest—is to revisit your own. Here's a tour of mine. Some I wrote down, others I merely thought. You'll have to take my word for those.
+It's easy to laugh at other people's bad AI takes. More interesting—and more honest—is to revisit your own. Here's a tour of mine. Some I wrote down, others I merely thought. For those, you'll have to take my word.
 
 Let's go!
 
@@ -22,7 +22,7 @@ Let's go!
 
 Setting aside AI's ancestors (Data Science, then Machine Learning), my first real contact with AI was probably the early days of ChatGPT, late 2022 to early 2023.
 
-Like any geek, I played with the web interface. It understood what I said and could respond "intelligently". It could translate, summarize, and rephrase text reasonably well. But on code? Absolutely nothing useful.
+Like any geek, I played with that web interface. It understood what I said and could respond "intelligently". It could translate, summarize, and rephrase text reasonably well. But on code? Absolutely nothing useful.
 
 My conclusion: nice toy. I could see how someone who writes a lot—emails, content, documentation—might find it useful. But write code? Never.
 
@@ -32,8 +32,6 @@ My conclusion: nice toy. I could see how someone who writes a lot—emails, cont
 
 Despite my skepticism, I kept using ChatGPT when I could, regularly testing its coding abilities. Unsurprisingly, the results were underwhelming, which only reinforced my flawed belief.
 
-My reasoning went like this: a small "mistake" in English text won't prevent your reader from understanding the sentence, but with code, it simply doesn't compile. I saw the day when AI could actually code drifting further and further away.
-
 To be fair to ChatGPT, it could explain simple code snippets. But it failed miserably when things got tricky. For instance, it completely choked on this bit of code:
 
 ```java
@@ -42,9 +40,13 @@ for (int i = 0; i < 100; ++i)
     System.out.printf(t[3 & (19142723 >> (2 * (i % 15)))], i);
 ```
 
-You understand it at first glance, of course. Right?
+You understand it at first glance, of course. Don't you?
 
-If you ask Claude today, it explains it perfectly: "This is a clever FizzBuzz implementation using bit manipulation". Progress.
+> If you ask Claude today, it explains it perfectly: "This is a clever FizzBuzz implementation using bit manipulation". Progress.
+
+My reasoning went like this: a small "mistake" in English text won't prevent your reader from understanding the sentence, but with code, it simply doesn't compile. I saw the day when AI could actually code drifting further and further away.
+
+**Wrong.**
 
 ## First real shock: Cursor
 
@@ -60,7 +62,7 @@ But still not for writing code. Beyond a few generated lines, things became unus
 
 The next wake-up call came with Claude Code, mid-2025.
 
-At first, I dismissed the CLI approach: a "poor" integration compared to Cursor. It would never work, I thought. Everyone codes in their IDE.
+At first, I dismissed the CLI approach: a "poor" integration compared to Cursor. Everyone codes in their IDE.
 
 But here, finally, was a tool capable of generating code autonomously. Code that required extensive review, given its middling quality. Not that it didn't work—it did—but corner cases weren't always handled, and the architecture was, let's be honest, pretty weak. Quality wasn't there.
 
@@ -72,10 +74,10 @@ My conclusion was that AI could probably be used when you didn't care too much a
 
 Time to risk a few more predictions that will inevitably be wrong. Consider this your opportunity to laugh at me in a few months when I write the follow-up post.
 
-In my view, we've pushed the models more or less to their maximum—parameter counts, context windows, and so on. It feels like we're approaching an asymptote. We're now bolting things onto AI (Agents, MCP, Skills, and more recently Agent Teams) to improve it, but I'd side with Yann LeCun: reaching AGI will require a major breakthrough.
+In my view, we've pushed the models more or less to their maximum—parameter counts, context windows, and so on. It feels like we're approaching an asymptote. We're now bolting things onto AI (Agents, MCP, Skills, and more recently Agent Teams) to improve it.
 
-That said, I'm now convinced generative AI—even without that breakthrough—will eventually generate 100% of the code, with humans responsible for building—or, increasingly, having AI build—the tools that guide it: test harnesses, controlled environments, guardrails. And soon enough, AI will generate those too. AI building the environments that constrain the AI that builds the environments.
+That said, I'm now convinced generative AI will eventually generate 100% of the code, with humans responsible for building—or, increasingly, having AI build—the tools that guide it: test harnesses, controlled environments, guardrails. And soon enough, AI will generate those too. AI building the environments that constrain the AI that builds the environments...
 
-I also suspect we'll eventually arrive at a "full AI" programming language that won't necessarily be human-readable the way our current languages are. I doubt Go or Rust are optimal languages for an AI to work with.
+I also suspect we'll eventually arrive at a "full AI" programming language—possibly invented by AI itself—that won't necessarily be human-readable the way our current languages are. I doubt Go or Rust are optimal languages for an AI to work with.
 
-I'll be here, in a few months, waiting to be proven wrong. Again.
+And I'll be here, in a few months, waiting to be proven wrong. Again.
