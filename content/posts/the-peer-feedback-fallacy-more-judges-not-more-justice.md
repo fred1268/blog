@@ -27,7 +27,7 @@ But why? A few reasons, really. Unlike a 100-meter dash, intellectual performanc
 
 ## Enter peer feedback
 
-So what did we do? We invented peer feedback. The thinking, presumably, is that if you multiply subjective opinions, the average would become objective. That's... not how any of this works.
+So what did we do? We invented peer feedback. The thinking, presumably, is that if you multiply subjective opinions, the average would become... objective? That's... not how any of this works.
 
 What we forget is that peers have even less experience evaluating performance than managers do. A manager might have training, coaching, years of practice. A peer? They're operating almost entirely on gut feeling and personal relationships.
 
@@ -37,13 +37,13 @@ And then these peer opinions influence the manager. A strong engineer says good 
 
 It gets worse with promotions and reference checks. There, *you* get to choose who speaks on your behalf. As if anyone would ever name someone they clashed with as a reference. Let's be serious.
 
-This isn't unlike [the autonomy trap](/posts/the-autonomy-trap/) — where we diffuse decision-making to feel more democratic, but end up with no one truly accountable. Here, we diffuse evaluation to feel more objective, but end up with bias wearing the mask of consensus.
+This isn't unlike [the autonomy trap](/posts/the-autonomy-trap/) — where we diffuse decision-making to feel more democratic. Here, we diffuse evaluation to feel more objective, but end up with bias wearing the mask of consensus.
 
 ## So what's the answer?
 
 I don't have a neat solution. But I'm fairly certain that peer feedback and reference checks don't solve the problem — they just dress up something completely subjective in the costume of scientific consensus.
 
-Is it better than the old way, where a single manager held all the power? I'd argue no. You can train a manager. You can coach them. You can work with HR to identify and counteract their biases over time. But handing evaluation to untrained people who were chosen *by* the person being evaluated? That seems genuinely misguided.
+Is it better than the old way, where a single manager held all the power? I'd argue no: it's even worse. You can train a manager. You can coach them. You can work with HR to identify and counteract their biases over time. But handing evaluation to untrained people who were chosen *by* the person being evaluated? That seems genuinely misguided.
 
 Maybe the answer is accepting that intellectual performance simply can't be measured — not with any precision. But if we accept that, what criteria do we use for hiring and promotion?
 
