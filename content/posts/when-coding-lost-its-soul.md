@@ -35,9 +35,9 @@ Then came social media, which gave a megaphone to noise. Audience began to repla
 
 ## Scattered embers
 
-Of course, passionate developers still exist. They're the ones quietly maintaining the open source projects we all depend on. They're out there. Somewhere.
+Of course, passionate developers still exist. Some are visible — quietly maintaining the open source projects we all depend on. But most aren't. They're solving problems no one will hear about, tinkering on projects they'll never share. They're out there. Just harder to find.
 
-But we're now hopelessly diluted in an ocean of professionals who simply clock in and clock out. Finding one in a typical company has become rare. The irony is striking: as the number of developers multiplied by orders of magnitude, those of us who care deeply about the craft found ourselves more isolated than ever. Fewer kindred spirits, not more.
+We're now hopelessly diluted in an ocean of professionals who simply clock in and clock out. Finding one in a typical company has become rare. The irony is striking: as the number of developers multiplied by orders of magnitude, those of us who care deeply about the craft found ourselves more isolated than ever. Fewer kindred spirits, not more.
 
 The casual conversations about weekend "exploits", the excitement of showing a colleague something cool you'd built — those moments have largely vanished. Software development has become a job.
 
