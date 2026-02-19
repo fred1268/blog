@@ -47,7 +47,7 @@ And perhaps you've hired engineers who spent the formative years of their career
 
 So you adopt a monorepo with Bazel. A sophisticated answer from another era, designed for challenges you've never faced — and suddenly you've created yourself a whole new class of problems you didn't have before.
 
-## The takeaway
+## Their problem, not yours
 
 The next time you read something impressive about how Google operates, pause for a moment. Remember that you're looking at the past through a very long lens. The problems that drove those solutions may have little in common with the challenges you face today.
 

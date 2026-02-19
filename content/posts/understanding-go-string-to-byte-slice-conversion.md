@@ -61,7 +61,7 @@ func stringtoslicebyte(buf *tmpBuf, s string) []byte {
 
 Looking closer at `rawbyteslice()`, it eventually calls `mallocgc()` to allocate memory. So when you write `[]byte(s)`, you're actually calling `stringtoslicebyte()` with `buf = nil`, which means you're allocating new memory every single time.
 
-## What can we learn from this?
+## Lesson from the Gopher hole
 
 There are several takeaways from this little exploration.
 
@@ -79,6 +79,6 @@ Could I have figured this out without all this exploration? Absolutely. If I had
 
 Finally, if you find yourself needing to do this kind of thing in Go, maybe Go isn't the right language for your use case. Rust gives you much finer control over memory management and makes conversions like this explicit, rather than relying on implicit conventions like "don't modify the `[]byte` after conversion".
 
-## Conclusion
+## Back to fundamentals
 
 What started as curiosity about an unusual piece of code turned into a valuable reminder: understanding the fundamentals—like immutability—helps you reason about what the language must be doing under the hood. And when in doubt, there's no substitute for reading the source.

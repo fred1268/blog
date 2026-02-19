@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-## Introduction
+## The complexity myth
 
 There's a curious belief among developers at large companies: they tend to think they're solving far more complex technical problems than engineers at smaller shops. After spending time on both sides of that fence, I can tell you the reality is quite different. The technical challenges are roughly equivalent. What actually gets harder at scale are the political and managerial problems—and those have surprisingly little to do with engineering.
 

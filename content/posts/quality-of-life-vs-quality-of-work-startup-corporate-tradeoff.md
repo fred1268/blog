@@ -56,7 +56,7 @@ Sure, it's harder than just posting a message in another team's Slack channel. B
 
 The tradeoff? You probably won't learn many formal processes, and your only way of working might end up being duct tape, caffeine, and sheer willpower.
 
-## So, which should you choose?
+## A one-way door
 
 Does it matter? Absolutely.
 

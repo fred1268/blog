@@ -77,7 +77,7 @@ This is exactly what Go's standard library does. Look at any map-like structure:
 
 And yes, `if errors.Is(err, ErrNotFound)` is *much* slower than `if !found`. But that's not a flaw in Go—it's a signal that errors aren't the right tool for this job.
 
-## The takeaway
+## Before you hit publish
 
 Before writing hot takes about performance, ask yourself a few questions:
 

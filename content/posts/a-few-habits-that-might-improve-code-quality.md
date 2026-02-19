@@ -41,6 +41,6 @@ When it's time to commit, same thing: I open the diff in my IDE and read through
 
 I'll admit it — this approach is slow, and I'm probably not the fastest developer around. But it clearly impacts quality, and that impact is measurable: fewer comments on PRs, fewer bugs in production.
 
-## Closing thoughts
+## Your mileage may vary
 
 I'm not claiming to have invented anything here. I simply observed how I work and did my best to articulate it, hoping it might give some ideas to those looking to improve. Whether it works for you, I can't say — but I hope it helps.

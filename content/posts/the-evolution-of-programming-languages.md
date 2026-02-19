@@ -49,7 +49,7 @@ These design choices lead to different sweet spots. Go's garbage collector means
 
 Overall, both languages have their strengths and areas of excellence. Choosing between them depends on what you're building and what tradeoffs you're willing to make.
 
-## What's next?
+## The race isn't over
 
 The evolution isn't stopping. Several promising languages are on the horizon.
 

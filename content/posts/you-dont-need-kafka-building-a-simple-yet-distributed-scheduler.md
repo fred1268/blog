@@ -252,7 +252,7 @@ for {
 
 Runs that were created but never completed (or started but never finished) are still in the database with `Ended = nil`. They'll be picked up and retried.
 
-## The Takeaway
+## Simplicity wins
 
 For a small-to-medium multi-tenant SaaS running on a handful of servers, you don't always need Kafka. You don't always need Redis. Sometimes your database—the thing you already have, already operate, already monitor—is enough.
 

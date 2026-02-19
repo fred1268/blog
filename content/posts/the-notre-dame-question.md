@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-## Introduction
+## History rhymes
 
 Over the past few months, we've been witnessing a genuine revolution driven by AI. Tasks that until recently required skilled humans can now be performed by AI in a fraction of the time and cost. This white-collar revolution isn't without echoes of the blue-collar revolution that transformed the world centuries ago.
 
@@ -51,7 +51,7 @@ To rebuild the cathedral, France needed stonemasons who understood centuries-old
 
 Machines couldn't do the work. After 850 years of settlement, nothing in the cathedral was level or straight. The craftsmen had to "reproduce all of the deformations that had accumulated over eight centuries." No algorithm could handle that. The skills had nearly died—and when they were needed, the world had to scramble.
 
-## What Comes Next
+## Minds, not hands
 
 The Industrial Revolution threatened livelihoods. The AI revolution may threaten something deeper.
 

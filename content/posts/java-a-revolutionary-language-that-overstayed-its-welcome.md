@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-## Introduction
+## The rise and the rust
 
 Back in 1995, Java was nothing short of a revolution. It promised to change everything about how we wrote and deployed software. And in many ways, it delivered. But it wasn't until 1997, when Java moved server-side, that it truly became *the* language everyone had to learn. Yet despite all of this—despite the genuine innovation and the undeniable impact—I can't help but feel that Java is a dated language that has aged poorly.
 

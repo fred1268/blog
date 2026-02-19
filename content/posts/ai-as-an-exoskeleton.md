@@ -41,7 +41,7 @@ Writing unit tests? Let the AI handle the bulk of it. Moving code from one place
 
 The danger for seniors is the opposite extreme: dogmatism. Dismissing AI entirely because it has weaknesses is a path to becoming someone who produces less—or produces worse. The tool has flaws, but so does refusing to use it.
 
-## What to remember
+## The muscles underneath
 
 For **junior developers**: Don't let AI steal your learning opportunities. Before accepting a suggestion, ask yourself honestly: *Do I actually know how to do this?* And no, watching someone else do it on YouTube doesn't count.
 

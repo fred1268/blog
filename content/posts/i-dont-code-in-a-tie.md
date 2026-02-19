@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-## Introduction
+## Something never felt right
 
 I've always had a problem with technical interviews. They feel artificial, disconnected from reality, and frankly unfair. Judging someone's abilities based on a few minutes of puzzle-coding under pressure? That's never sat right with me.
 
