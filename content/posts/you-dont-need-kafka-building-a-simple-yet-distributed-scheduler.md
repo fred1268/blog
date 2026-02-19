@@ -13,13 +13,13 @@ readingTime = true
 hideComments = true
 +++
 
-## The Brief
+## The brief
 
 You're building a small multi-tenant SaaS product. You need to run scheduled tasks—some system-wide (cleanup, analytics aggregation), some per-tenant (sending reports, syncing data).
 
 You may already be thinking message queues, dead letter queues, RabbitMQ, Redis, Kafka. That works—but for a SaaS running on a handful of web servers, it's probably overkill. Your servers aren't exactly overloaded at 3am anyway—why not use those idle resources for background jobs?
 
-## A Simpler Approach
+## A simpler approach
 
 Let's start simple. On a single server, this is a solved problem: spawn a pool of worker goroutines, feed them jobs through a channel, done. Go's concurrency primitives handle all the synchronization.
 
@@ -31,7 +31,7 @@ Row-level locking (`SELECT FOR UPDATE`) gives us distributed coordination for fr
 
 So now we have two levels of synchronization: goroutines and channels within each server, database row-level locking between servers. Getting this right requires careful attention to `Commit()` and `Rollback()` calls—one misplaced transaction boundary and your locks don't protect anything. And the two layers must stay in lockstep—more on that later.
 
-## The Data Model
+## The data model
 
 A job defines *what* to run and *when*:
 
@@ -63,7 +63,7 @@ type Run struct {
 
 The key fields for coordination are `InProgress` on jobs and `Started` on runs.
 
-## How It All Fits Together
+## How it all fits together
 
 Before diving into the details, here's the big picture. The scheduler works in two phases:
 
@@ -73,7 +73,7 @@ Before diving into the details, here's the big picture. The scheduler works in t
 
 This two-phase approach means one server handles the fan-out (creating potentially hundreds of tenant runs), then all servers share the actual execution.
 
-## Multi-Tenant Support
+## Multi-tenant support
 
 The scheduler supports two job types:
 
@@ -94,7 +94,7 @@ case JobTypeGlobal:
 
 A single job definition ("send weekly reports") automatically fans out to hundreds of tenant-specific executions—all distributed across your servers.
 
-## The Main Loop
+## The main loop
 
 On startup, the scheduler spawns N worker goroutines (one per CPU):
 
@@ -122,7 +122,7 @@ for {
 }
 ```
 
-## The Distribution Magic
+## The distribution magic
 
 Here's where it gets interesting. Multiple servers run this same code. When a job is due, all of them try to create and claim runs. How do we prevent chaos?
 
@@ -164,7 +164,7 @@ The pattern:
 
 This is the key insight: **the database is your distributed lock**. No Redis, no Zookeeper, no Raft. Just SQL.
 
-## Worker Execution
+## Worker execution
 
 Once a run is claimed, it goes into a channel:
 
@@ -212,7 +212,7 @@ func (s *Scheduler) panicSafeRunner(ctx context.Context, in <-chan *Run, done ch
 
 Note the tenant context: each run executes in the context of its tenant, so the job function doesn't need to worry about multi-tenancy.
 
-## Keeping the Two Layers in Sync
+## Keeping the two layers in sync
 
 Remember the two synchronization layers? Here's where they meet—and where things can go wrong if you're not careful.
 
@@ -235,7 +235,7 @@ The order matters. If you pushed to the channel before committing, another serve
 
 By committing first, we guarantee that by the time a run enters the channel, no other server can claim it. And if the server crashes between commit and channel push? The run has `Started` set but no `Ended`—it will be picked up on restart.
 
-## Fault Tolerance
+## Fault tolerance
 
 What happens if a server crashes mid-execution?
 

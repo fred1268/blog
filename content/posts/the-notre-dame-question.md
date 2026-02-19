@@ -17,7 +17,7 @@ hideComments = true
 
 Over the past few months, we've been witnessing a genuine revolution driven by AI. Tasks that until recently required skilled humans can now be performed by AI in a fraction of the time and cost. This white-collar revolution isn't without echoes of the blue-collar revolution that transformed the world centuries ago.
 
-## The Industrial Revolution
+## The industrial revolution
 
 Starting around 1760, machines began replacing skilled craftsmen—weavers and spinners who had spent years mastering their trade.
 
@@ -27,7 +27,7 @@ The speed differential was brutal. A single operator could manage over a thousan
 
 The transition took 60-80 years to stabilize. Brutal as it was, multiple generations had time to adapt—children grew up in a world their parents had learned to navigate.
 
-## The AI Revolution
+## The AI revolution
 
 Now consider what's happening with AI.
 
@@ -41,7 +41,7 @@ But the revolutions diverge on one crucial point: the Industrial Revolution took
 
 And the breadth is staggering. The Industrial Revolution primarily affected manual labor in specific industries—textiles, manufacturing, agriculture. The AI revolution touches nearly every white-collar profession simultaneously: software, law, medicine, finance, design, writing, research. There's nowhere to pivot to.
 
-## The Return to Craftsmanship
+## The return to craftsmanship
 
 Two centuries after machines won, we're seeing a quiet revival. Craft beer, handmade furniture, bespoke clothing—people pay premium prices for human touch, even when machine-made is technically superior. Etsy built a billion-dollar business on it.
 

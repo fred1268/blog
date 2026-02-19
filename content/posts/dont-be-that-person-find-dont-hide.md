@@ -15,7 +15,7 @@ hideComments = true
 
 The other day, I was working on improving some cache code when I stumbled upon something peculiar: a struct member that turned out to be a function. Its name? `exitFunc`. That's... unusual, to say the least. My curiosity was piqued, and I decided to dig deeper. What I found is a cautionary tale about the temptation to sweep problems under the rug.
 
-## Down the Rabbit Hole
+## Down the rabbit hole
 
 I started by tracing what `exitFunc` was initialized to: `os.Exit()`. Even more intriguing! So I followed the trail to see where this function was actually being called.
 
@@ -27,7 +27,7 @@ Oh, and that panic handler? It doesn't log anything at all. Silent failure at it
 
 In other words: "Out of sight, out of mind. Nobody will notice".
 
-## Finding the Real Bug
+## Finding the real bug
 
 Curious about what could cause all goroutines to block, I started examining the code more closely. That's when I found this gem:
 

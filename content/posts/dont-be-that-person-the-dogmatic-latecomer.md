@@ -19,7 +19,7 @@ In the 2020s.
 
 I later learned he'd been implementing it systematically at every company he worked for—he was a freelancer—regardless of the actual problem at hand.
 
-## A Brief History of CQRS
+## A brief history of CQRS
 
 I won't attempt to plagiarize the excellent Wikipedia article or the broader literature on the subject. But here's the short version.
 
@@ -29,7 +29,7 @@ To understand why this mattered, you need to remember the context. SaaS was bare
 
 In that world, CQRS could make perfect sense.
 
-## Where It Falls Short Today
+## Where it falls short today
 
 First, context has changed dramatically. Multi-core processors are everywhere. Storage options have multiplied beyond recognition. Cloud infrastructure offers scaling options that didn't exist. The constraints that made CQRS necessary have largely dissolved.
 
@@ -37,7 +37,7 @@ Second—and the people who developed CQRS will tell you this themselves—it on
 
 For most applications, a well-designed CRUD approach is simpler and sufficient.
 
-## The Hype Cycle Problem
+## The hype cycle problem
 
 This brings me to a broader point about our industry.
 
@@ -47,7 +47,7 @@ I've [written elsewhere](/posts/the-evolution-of-programming-languages/) about h
 
 This means dogmatism has no place in our profession. You can have convictions, certainly. But you must hold them loosely, ready to revisit them as the landscape shifts.
 
-## Before You Adopt Anything
+## Before you adopt anything
 
 When you encounter a technique that's new to you, resist the urge to implement it everywhere.
 
