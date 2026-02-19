@@ -48,6 +48,12 @@ body {
   animation: blink 1s step-end infinite;
 }
 
+/* Tighten nested ToC lists so no visual gap appears after subsections */
+#TableOfContents ul {
+  margin: 0;
+  padding-left: 1em;
+}
+
 /* CRT monitor effect for cover images */
 .crt-monitor {
   position: relative;
