@@ -1,6 +1,6 @@
 +++
 title = "The power of 'I don't know'"
-date = "2023-10-12T23:02:17+01:00"
+date = "2024-09-15T10:00:00+02:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
