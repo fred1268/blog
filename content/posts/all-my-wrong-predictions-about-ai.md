@@ -78,6 +78,8 @@ In my view, we've pushed the models more or less to their maximum—parameter co
 
 That said, I'm now convinced generative AI will eventually generate 100% of the code, with humans responsible for building—or, increasingly, having AI build—the tools that guide it: test harnesses, controlled environments, guardrails. And soon enough, AI will generate those too. AI building the environments that constrain the AI that builds the environments...
 
-I also suspect we'll eventually arrive at a "full AI" programming language—possibly invented by AI itself—that won't necessarily be human-readable the way our current languages are. I doubt Go or Rust are optimal languages for an AI to work with.
+And here's one that's less a prediction than a hope. I've written before about [where all the computing power went](/posts/where-did-all-the-computing-power-go/). AI might be our chance to reverse that. Today's programming languages exist because *we* need readable syntax, friendly error messages, and elegant abstractions. AI doesn't. It could work in something much closer to the metal, skipping all the comfort layers we built for ourselves. A language invented for AI—and maybe by AI—that also happens to produce efficient binaries. Not human-readable, but human-*auditable*—and above all, resource-conscious.
+
+I'd love to see that happen.
 
 And I'll be here, in a few months, waiting to be proven wrong. Again.
