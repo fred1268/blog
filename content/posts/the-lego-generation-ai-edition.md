@@ -43,9 +43,9 @@ At this stage, books and magazines were mostly gone (and sadly, most magazines h
 
 ## The Lego developer
 
-We arrived at a developer who wrote code punctuated by copy-paste from Stack Overflow—the Legos.
+We arrived at a developer who wrote code punctuated by copy-paste from Stack Overflow, blog posts, and tutorials—the Legos.
 
-We assembled, often without truly understanding, bits of code that solved the problem at hand. Frequently pushed by PMs who always wanted to go faster.
+They assembled, often without truly understanding, bits of code that solved the problem at hand. Frequently pushed by PMs who always wanted to go faster.
 
 In parallel, YouTube coding channels and blogs proliferated. Neither allows you to verify the author's competence—unless you're more competent than they are, which defeats the purpose when you're trying to learn.
 
