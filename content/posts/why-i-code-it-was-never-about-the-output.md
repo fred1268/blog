@@ -21,32 +21,21 @@ It's worth asking what brought us to this profession in the first place.
 
 Younger developers might have varied answers, but I'd bet that for the older crowd, it was the playful side of things—the constant learning, the algorithms, the puzzles. All those things that kept us up until 3 AM.
 
-The joy of programming takes many forms:
-
-1. **Dissecting the problem** and truly understanding it
-2. **Thinking through a solution**
-3. **Designing the architecture**—what to expose, how it will be used, how the code will be maintained, how to leverage language features to enforce business rules
-4. **Implementing that solution**
-5. **Running tests** that reveal your initial solution isn't quite good enough
-6. **Optimizing**, **debugging**, **profiling** until you reach the final version
-7. The **aha** moment when you find out why
-8. And finally, **the pride of a job well done**
+The joy of programming takes many forms. There's **the puzzle** — dissecting a problem and truly understanding it. Then comes **the design** — thinking through a solution, choosing what to expose, how it will be used, how to leverage language features to enforce business rules. After that, **the build** — actually implementing it. Then **the grind** — running tests that reveal your solution isn't quite good enough, optimizing, debugging, profiling until you reach the final version. Somewhere in there, **the aha** — those moments when you finally find out *why*. And at the end of it all, **the pride** of a job well done.
 
 ## Enter AI
 
-Let's face it: AI now handles a lot of these steps. And managers are pushing for maximum AI usage.
+Let's face it: AI now handles a lot of these. And managers are pushing for maximum AI usage.
 
-Step 1 will undoubtedly remain—you still need to convey the requirements to the AI somehow.
+**The puzzle** will undoubtedly remain — you still need to convey the requirements to the AI somehow.
 
-Step 2 is atrophying. It's easy to let the AI run free or just ask it for options and a recommendation.
+**The design** is atrophying. It's easy to let the AI run free or just ask it for options and a recommendation. The architecture side is nearly gone. Sure, you can nitpick the AI into doing exactly what you want, but since AI will likely maintain the code too, what's the point? And when you do try, you either spend so much time you could have done it yourself, or you give up because these abstract concerns are already hard to convey to a human, let alone an AI.
 
-Step 3 is nearly gone. Sure, you can nitpick the AI into doing exactly what you want, but since AI will likely maintain the code too, what's the point? And when you do try, you either spend so much time you could have done it yourself, or you give up because these abstract concerns are already hard to convey to a human, let alone an AI.
+**The build** was never the most interesting part, and it's where AI is unbeatable.
 
-Step 4 was never the most interesting part, and it's where AI is unbeatable.
+**The grind** is disappearing too — and with it, **the aha**.
 
-Steps 5 and 6 are disappearing too-and with them, step 7.
-
-And once you're done—can you really feel proud of work you didn't do?
+And once you're done — can you really feel **the pride** of work you didn't do?
 
 ## The novelty wears off
 
@@ -56,25 +45,18 @@ True. But is it fun?
 
 The first time I did something new with AI, I found it interesting and fun. A bit like the first time I installed Linux.
 
-After the third reinstall? Boring as hell!
+After the third reinstall? Already a chore.
 
-With AI, it's the same:
-
-- My first Cursor TAB? Wow.
-- My first specs co-written with Claude? Amazing.
-- My first vibe-coded project? Eye-opening.
-- My first skill that worked perfectly? Almost magical.
+With AI, it's the same. My first Cursor TAB? Wow. My first specs co-written with Claude? Amazing. My first vibe-coded project? Eye-opening. My first skill that worked perfectly? Almost magical.
 
 But the ones after that? Not fun. Just another Linux install.
 
-Writing new software, discovering a new algorithm, creating a [reasonably complex piece of code](/posts/you-dont-need-kafka-building-a-simple-yet-distributed-scheduler/)—these things are interesting the first time *and* every time after.
+Writing new software, discovering a new algorithm, creating a [reasonably complex piece of code](/posts/you-dont-need-kafka-building-a-simple-yet-distributed-scheduler/)—these things are interesting the first time *and* every time thereafter.
 
 ## Where I land
 
 Far from rejecting AI—quite the opposite. The geek in me is having a blast with this absurdly powerful toy.
 
-If I still find pleasure in it, it's probably because the field is constantly evolving. But like any tool, that will slow down. AI will mature, just like IDEs or the Linux installer did.
-
-And who finds an IDE or installing Linux fun these days—except maybe the first time?
+If I still find pleasure in it, it's probably because the field is constantly evolving. But like any tool, AI will mature and settle into the background — just like IDEs or the Linux installer did. Tools become invisible. The craft doesn't.
 
 Programming was always an intellectual game for me. The output was just proof that I'd played it well. When AI handles most of the game, what's left is supervising—and supervision was never why I fell in love with code.
