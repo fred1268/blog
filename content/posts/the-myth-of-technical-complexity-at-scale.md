@@ -53,4 +53,4 @@ And no, I refuse to believe that dozens of incidents per day is "normal". Some i
 
 So here's the uncomfortable truth: developers at large companies aren't dealing with harder technical problems. They're dealing with the side effects of organizational scale—the politics, the negotiations, the gradual erosion of ownership and accountability.
 
-The next time someone tells you in an interview that joining Big Tech Company #42 will teach you so much more than Startup #28, take it with a grain of salt. You might learn a lot about navigating bureaucracy. But technically? The problems are the same. The difference is in how much people still care about solving them well.
+The next time someone tells you in an interview that joining Big Tech will teach you so much more than a startup, take it with a grain of salt. You might learn a lot about navigating bureaucracy. But technically? The problems are the same. The difference is in how much people still care about solving them well.
