@@ -19,7 +19,7 @@ The other day, I was working on improving some cache code when I stumbled upon s
 
 I started by tracing what `exitFunc` was initialized to: `os.Exit()`. Even more intriguing! So I followed the trail to see where this function was actually being called.
 
-What I found was a function preceded by an enormous comment—over 30 lines long. The gist of it went something like this:
+What I found was a function preceded by an enormous comment—over 30 lines long, already two years old at that point. The gist of it went something like this:
 
 > Four years ago, all goroutines got blocked and the system came to a halt. We didn't really understand what happened, but if it ever occurs again, we'll just exit the binary completely so that Kubernetes can restart the pod. So we added a panic handler that calls `os.Exit()`.
 
