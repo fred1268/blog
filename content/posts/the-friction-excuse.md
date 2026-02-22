@@ -1,6 +1,6 @@
 +++
 title = "The friction excuse"
-date = "2026-04-01T22:55:41+01:00"
+date = "2026-02-01T22:55:41+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
@@ -18,7 +18,7 @@ draft = true
 
 Recently, in two separate meetings at a large tech company, I watched the same scene play out.
 
-Someone presented an approach that was suboptimal — not just technically, but for the customer and the company too. Not catastrophically wrong, just... not right. Better alternatives existed — technically sounder, and/or ones that would actually bring value to the product and its users. Both times, they were dismissed with nearly the same words: "That would require convincing people. It would add friction".
+Someone presented an approach that was suboptimal — not just technically, but for the customer and the company too. Not catastrophically wrong — just not right. Better alternatives existed — technically sounder, and/or ones that would actually bring value to the product and its users. Both times, they were dismissed with nearly the same words: "That would require convincing people. It would add friction".
 
 As if the difficulty of the conversation was a valid engineering argument.
 
@@ -34,11 +34,11 @@ Here's what struck me most about both conversations: at no point did anyone ment
 
 Not once. The entire discussion revolved around internal dynamics. When your primary constraint becomes "what's politically feasible" rather than "what's right for the product", you've stopped serving customers and started serving your own career.
 
-## Death by a thousand reasonable choices
+## Death by a thousand easy choices
 
-No single instance of this is catastrophic. A product can survive one suboptimal API design, one unnecessary abstraction layer, one poor architecture choice. Each one, taken alone, is perfectly defensible — if it's for the greater good of the company or the customer.
+No single instance of this is catastrophic. A product can survive one suboptimal API design, one unnecessary abstraction layer, one poor architecture choice. Each one, taken alone, is perfectly defensible — if it's really for the greater good of the company or the customer.
 
-But they compound. Large organizations reward consensus over correctness — and while doing the right thing is long and difficult, doing it wrong takes no time and no effort in the short term. Over months and years, the product quietly decays. Not from one bad decision, but from a thousand easy ones.
+But they rarely are. And they compound. Large organizations reward consensus over correctness — and while doing the right thing is long and difficult, doing it wrong takes no time and no effort in the short term. Over months and years, the product quietly decays. Not from one bad decision, but from a thousand easy ones.
 
 As I've [written before](/posts/the-myth-of-technical-complexity-at-scale/), the friction excuse is how that politics manifests at the individual decision level. It's the mechanism by which organizational dysfunction gets encoded into your codebase, one pull request at a time.
 
