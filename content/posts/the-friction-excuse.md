@@ -18,7 +18,7 @@ draft = true
 
 Recently, in two separate meetings at a large tech company, I watched the same scene play out.
 
-Someone presented an approach that was suboptimal — not just technically, but for the customer and the company too. Not catastrophically wrong — just not right. Better alternatives existed — technically sounder, and/or ones that would actually bring value to the product and its users. Both times, they were dismissed with nearly the same words: "That would require convincing people. It would add friction".
+Someone presented an approach that was suboptimal — not just technically, but for the customer and the company too. Not catastrophically wrong — just not right. Better alternatives existed — technically sounder, ones that would actually bring value to the product and/or its users. Both times, they were dismissed with nearly the same words: "That would require convincing people. It would add friction".
 
 As if the difficulty of the conversation was a valid engineering argument.
 

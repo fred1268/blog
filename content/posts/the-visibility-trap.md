@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = "covers/the-visibility-trap.png"
 tags = ["career", "management"]
 keywords = ["career advancement", "visibility", "self-promotion", "big tech", "startup culture", "performance", "recognition", "software engineering"]
-description = "In software engineering, there are doers who let their work speak for itself, and talkers who make sure everyone knows what they've accomplished. Both strategies work—but in very different environments. Understanding which one you are, and what that means for your career, might be the most important realization you never planned for."
+description = "In software engineering, there are doers who let their work speak for itself, and talkers who make sure everyone knows what they've accomplished. Both strategies work—but in very different environments, and knowing which fits where might matter more than you think."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -52,10 +52,10 @@ To be clear: communicating impact, writing docs, and sharing knowledge are valua
 
 ## The balancing act
 
-Now, I have a pretty clear personal opinion about who I want to work with. But we have to be honest: doers are betting that their natural talent is enough to shine. That may be true in some companies, but it's a risky bet overall.
+Now, I have a pretty clear personal opinion about who I want to work with. But we have to be honest: doers are betting that their natural talent is enough to shine. That may be true in some companies, but it's a very risky bet overall.
 
 Talkers, on the other hand, do their own PR and market themselves aggressively. They've figured out how to navigate the system and climb the ranks in Big Tech environments. It can backfire in smaller structures, but that's not where they want to work.
 
-As my very first manager once told me: "It's not just what you know, it's who knows what you know." You need a lot of the first, and a bit of the second.
+As my very first manager once told me: "It's not just what you know, it's who knows that you know." You need a lot of the first, and a bit of the second.
 
 Be a doer, certainly, but one who knows how to sell themselves... just a little bit.
