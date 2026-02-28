@@ -1,6 +1,6 @@
 +++
 title = "Don't be that person: \"you don't understand\""
-date = "2025-08-15T19:58:49+01:00"
+date = "2025-08-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

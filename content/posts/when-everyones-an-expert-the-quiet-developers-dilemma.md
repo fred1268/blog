@@ -1,6 +1,6 @@
 +++
 title = "When everyone's an expert: the quiet developer's dilemma"
-date = "2025-10-25T19:55:04+01:00"
+date = "2025-10-01T00:00:00+01:00"
 author = ""
 cover = "covers/when-everyones-an-expert-the-quiet-developers-dilemma.png"
 tags = ["ai", "reflections"]

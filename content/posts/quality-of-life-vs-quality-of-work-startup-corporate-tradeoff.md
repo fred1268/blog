@@ -1,6 +1,6 @@
 +++
 title = "Quality of life vs. quality of work: the startup-corporate tradeoff"
-date = "2025-04-30T21:08:00+01:00"
+date = "2025-04-01T00:00:00+01:00"
 author = ""
 cover = "covers/quality-of-life-vs-quality-of-work-startup-corporate-tradeoff.png"
 tags = ["career", "startups", "tech"]

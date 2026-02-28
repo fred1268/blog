@@ -1,6 +1,6 @@
 +++
 title = "All my wrong predictions about AI (and probably a few more)"
-date = "2026-03-01T11:21:32+01:00"
+date = "2026-03-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
@@ -11,7 +11,6 @@ description = "When a technology is hot, everyone feels compelled to weigh in—
 showFullContent = false
 readingTime = true
 hideComments = true
-draft = true
 +++
 
 It's easy to laugh at other people's bad AI takes. More interesting—and more honest—is to revisit your own. Here's a tour of mine. Some I wrote down, others I merely thought. For those, you'll have to take my word.

@@ -1,6 +1,6 @@
 +++
 title = "The Lego generation, AI edition: how developers stopped learning and learned to love the prompt"
-date = "2025-12-12T20:46:09+01:00"
+date = "2025-12-01T00:00:00+01:00"
 author = ""
 cover = "covers/the-lego-generation.png"
 tags = ["ai", "learning"]

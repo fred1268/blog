@@ -1,6 +1,6 @@
 +++
 title = "AI as an exoskeleton: why it helps seniors fly but may trip juniors"
-date = "2025-09-17T20:50:22+01:00"
+date = "2025-09-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

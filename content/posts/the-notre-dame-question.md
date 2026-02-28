@@ -1,6 +1,6 @@
 +++
 title = "The Notre Dame question"
-date = "2026-02-07T10:43:32+01:00"
+date = "2026-02-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

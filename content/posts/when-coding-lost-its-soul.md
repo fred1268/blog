@@ -1,6 +1,6 @@
 +++
 title = "When coding lost its soul"
-date = "2023-11-12T21:18:40+01:00"
+date = "2023-11-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

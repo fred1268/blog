@@ -1,6 +1,6 @@
 +++
 title = "Why I open source code nobody will ever use"
-date = "2025-03-10T18:13:44+01:00"
+date = "2025-03-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

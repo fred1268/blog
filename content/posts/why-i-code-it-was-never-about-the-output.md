@@ -1,6 +1,6 @@
 +++
 title = "Why I code: it was never about the output"
-date = "2026-01-05T17:50:17+01:00"
+date = "2026-01-01T00:00:00+01:00"
 author = ""
 cover = "covers/why-i-code-it-was-never-about-the-output.png"
 tags = ["ai", "reflections"]

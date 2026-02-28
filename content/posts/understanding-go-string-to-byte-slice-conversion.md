@@ -1,6 +1,6 @@
 +++
 title = "Understanding Go's string to byte slice conversion"
-date = "2025-07-15T22:24:12+01:00"
+date = "2025-07-01T00:00:00+01:00"
 author = ""
 cover = "covers/golang.png"
 tags = ["go", "performance"]

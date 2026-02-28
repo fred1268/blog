@@ -1,6 +1,6 @@
 +++
 title = "Don't be that person: learn first, blog later"
-date = "2024-05-07T13:57:01+01:00"
+date = "2024-05-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @

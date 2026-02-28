@@ -1,6 +1,6 @@
 +++
 title = "Java: A revolutionary language that overstayed its welcome"
-date = "2024-11-16T19:54:06+01:00"
+date = "2024-11-01T00:00:00+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
