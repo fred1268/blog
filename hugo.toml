@@ -95,3 +95,9 @@ pagination.pagerSize = 5
           identifier = "about"
           name = "About"
           url = "/about"
+
+        [[languages.en.menu.main]]
+          identifier = "rss"
+          name = "RSS"
+          url = "/index.xml"
+          weight = 99
