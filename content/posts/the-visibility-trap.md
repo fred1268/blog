@@ -11,7 +11,6 @@ description = "In software engineering, there are doers who let their work speak
 showFullContent = false
 readingTime = true
 hideComments = true
-draft = true
 +++
 
 I don't know if you've noticed, but in our profession, there are two types of people: doers who are too busy doing to talk much about it, and talkers who spend at least as much time discussing what they've done as actually doing it. And here's the uncomfortable truth—in certain environments, the latter strategy pays off handsomely.

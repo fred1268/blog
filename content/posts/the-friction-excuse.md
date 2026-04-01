@@ -11,7 +11,6 @@ description = "Doing the right thing is hard and demands courage. Doing the poli
 showFullContent = false
 readingTime = true
 hideComments = true
-draft = true
 +++
 
 ## Twice in a row
