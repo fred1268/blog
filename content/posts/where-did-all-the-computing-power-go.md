@@ -36,7 +36,7 @@ The truth is, much of that power has been absorbed by bloatware.
 
 Consider operating systems. The old ones fit on a few floppy disks—tens of megabytes, maybe a hundred or two. Today, Windows, macOS, and even Linux distributions easily consume ten gigabytes or more. That's a hundred to a thousand times larger.
 
-Applications that used to be written natively are now built on [Electron and a cascade of frameworks stacked on top of each other](/posts/the-lego-generation-software-development-then-and-now/). Between the JVM, the CLR, and various interpreted languages—both in production and on local machines—virtual machines are everywhere. In production, those VMs often run inside other VMs, frequently with Docker containers nested within. It's layer upon layer upon layer, none of them particularly conducive to performance.
+Applications that used to be written natively are now built on [Electron and a cascade of frameworks stacked on top of each other](/posts/the-lego-generation/). Between the JVM, the CLR, and various interpreted languages—both in production and on local machines—virtual machines are everywhere. In production, those VMs often run inside other VMs, frequently with Docker containers nested within. It's layer upon layer upon layer, none of them particularly conducive to performance.
 
 But thanks to Moore's Law steadily delivering more power, nobody pays much attention to efficiency anymore—as long as things remain "reasonable". When performance does become a problem, the fix is usually to optimize a loop here, tweak an algorithm there, or swap out a data structure. What we almost never do is question the towering stack of technologies and abstractions we've built in the first place.
 
