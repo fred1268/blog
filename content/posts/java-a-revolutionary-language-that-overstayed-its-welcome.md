@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = "covers/java-a-revolutionary-language-that-overstayed-its-welcome.png"
 tags = ["languages", "history"]
 keywords = ["java", "java history", "programming languages", "open source", "sun microsystems", "go", "software development", "legacy code"]
-description = "A nostalgic look at Java's revolutionary impact in 1995 and its transformation of software development—from portable bytecode to open source culture—and why, despite all its contributions, it feels like a language that never learned when to gracefully exit the stage."
+description = "A nostalgic look at Java's revolutionary impact in 1995 and its transformation of software development, from portable bytecode to open source culture, and why, despite all its contributions, it feels like a language that never learned when to gracefully exit the stage."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -15,7 +15,7 @@ hideComments = true
 
 ## The rise and the rust
 
-Back in 1995, Java was nothing short of a revolution. It promised to change everything about how we wrote and deployed software. And in many ways, it delivered. But it wasn't until 1997, when Java moved server-side, that it truly became *the* language everyone had to learn. Yet despite all of this—despite the genuine innovation and the undeniable impact—I can't help but feel that Java is a dated language that has aged poorly.
+Back in 1995, Java was nothing short of a revolution. It promised to change everything about how we wrote and deployed software. And in many ways, it delivered. But it wasn't until 1997, when Java moved server-side, that it truly became *the* language everyone had to learn. Yet despite all of this, despite the genuine innovation and the undeniable impact, I can't help but feel that Java is a dated language that has aged poorly.
 
 And believe it or not, that makes me a little sad.
 
@@ -25,7 +25,7 @@ To understand why Java felt so revolutionary, you need to remember what we were 
 
 Then Java arrived, and it felt like someone had opened a window in a stuffy room.
 
-It brought us browsable documentation—not online in the modern sense (this was 1995, after all), but structured HTML you could actually navigate. It came with a standard library that was enormous for its era, including advanced features like concurrency support and UTF-8 handling. These were things we'd grown accustomed to reimplementing at every company, for every project.
+It brought us browsable documentation, not online in the modern sense (this was 1995, after all), but structured HTML you could actually navigate. It came with a standard library that was enormous for its era, including advanced features like concurrency support and UTF-8 handling. These were things we'd grown accustomed to reimplementing at every company, for every project.
 
 And of course, there was the legendary promise: *write once, run anywhere*.
 
@@ -46,19 +46,19 @@ But credit where it's due: most of these issues were eventually addressed.
 
 ## Java's lasting contributions
 
-Despite my criticisms, Java's influence on our industry has been profound. It didn't just give us a language—it reshaped how we think about software development.
+Despite my criticisms, Java's influence on our industry has been profound. It didn't just give us a language, it reshaped how we think about software development.
 
 Java pioneered portability and automatic memory management in the mainstream. But perhaps more importantly, it sparked the open source revolution as we know it today. Yes, GNU and Linux existed before Java, but they were niche concerns for most developers. Nobody in the corporate world was thinking about open-sourcing their code.
 
-Sun Microsystems changed that calculus by open-sourcing Java from the start. That decision created a spark that ignited the open source movement we now take for granted. From portable bytecode to memory management to community-driven development—Java's contributions were genuinely transformative.
+Sun Microsystems changed that calculus by open-sourcing Java from the start. That decision created a spark that ignited the open source movement we now take for granted. From portable bytecode to memory management to community-driven development, Java's contributions were genuinely transformative.
 
 ## A difficult decline
 
 And yet, there are sins of youth that Java never managed to correct.
 
-The "everything is an object" philosophy, for instance, was in retrospect a terrible idea. Some mistakes could have been fixed but never were—like the fragmented tooling ecosystem (compare this to the cohesive experience of C#, for example). But what really dates Java, in my view, is how it evolved by chasing every trend that came along.
+The "everything is an object" philosophy, for instance, was in retrospect a terrible idea. Some mistakes could have been fixed but never were, like the fragmented tooling ecosystem (compare this to the cohesive experience of C#, for example). But what really dates Java, in my view, is how it evolved by chasing every trend that came along.
 
-Generics bolted on top of type erasure. Lambdas arriving decades late. Streams, records, pattern matching—each addition feeling less like natural evolution and more like desperate catch-up. The result is a language with convoluted syntax, complicated notation, and multiple ways to accomplish the same task.
+Generics bolted on top of type erasure. Lambdas arriving decades late. Streams, records, pattern matching, each addition feeling less like natural evolution and more like desperate catch-up. The result is a language with convoluted syntax, complicated notation, and multiple ways to accomplish the same task.
 
 We're a long way from the clean minimalism of Go.
 
@@ -68,6 +68,6 @@ So here we are, stuck with a language that feels increasingly antiquated, slowly
 
 I'll be honest: I genuinely loved Java in its early years. It was exciting. It was new. It represented real progress in how we built software.
 
-But languages, like all technologies, have their time. Java's time was the late '90s through the early 2010s. Today, it lingers on—not because it's the best tool for the job, but because the cost of leaving is too high.
+But languages, like all technologies, have their time. Java's time was the late '90s through the early 2010s. Today, it lingers on, not because it's the best tool for the job, but because the cost of leaving is too high.
 
 And that, more than anything, is what makes its long goodbye so difficult to watch.

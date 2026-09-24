@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = "covers/dont-be-that-person-find-dont-hide.png"
 tags = ["dont-be-that-person", "go"]
 keywords = ["go", "golang", "debugging", "mutex", "root cause analysis", "software engineering", "best practices"]
-description = "A mysterious exitFunc led me to a 4-year-old workaround hiding a mutex bug. Instead of fixing the root cause, someone had silently restarted the pod on panic. A reminder that masking problems robs you of growth—always dig deeper and find the real bug."
+description = "A mysterious exitFunc led me to a 4-year-old workaround hiding a mutex bug. Instead of fixing the root cause, someone had silently restarted the pod on panic. A reminder that masking problems robs you of growth, always dig deeper and find the real bug."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -19,7 +19,7 @@ The other day, I was working on improving some cache code when I stumbled upon s
 
 I started by tracing what `exitFunc` was initialized to: `os.Exit()`. Even more intriguing! So I followed the trail to see where this function was actually being called.
 
-What I found was a function preceded by an enormous comment—over 30 lines long, already two years old at that point. The gist of it went something like this:
+What I found was a function preceded by an enormous comment, over 30 lines long, already two years old at that point. The gist of it went something like this:
 
 > Four years ago, all goroutines got blocked and the system came to a halt. We didn't really understand what happened, but if it ever occurs again, we'll just exit the binary completely so that Kubernetes can restart the pod. So we added a panic handler that calls `os.Exit()`.
 
@@ -38,7 +38,7 @@ mu.Lock()
 mu.Unlock()
 ```
 
-The mutex lock is acquired, then a bunch of operations that can panic are performed, and only then is the mutex unlocked. If any of those operations panic, the mutex is never released—and every other goroutine waiting for that lock will be stuck forever.
+The mutex lock is acquired, then a bunch of operations that can panic are performed, and only then is the mutex unlocked. If any of those operations panic, the mutex is never released, and every other goroutine waiting for that lock will be stuck forever.
 
 The irony (or perhaps the frustrating part) is that this pattern appeared in multiple places throughout the code, including about ten lines above that very comment explaining the mysterious four-year-old incident.
 
@@ -52,6 +52,6 @@ Finding the real source of a bug requires patience, skill, and perseverance. The
 
 If you ever find yourself in this situation, resist the urge to hide the problem. Dig in and search for the cause. If you can't figure it out on your own, ask for help. But never settle for a band-aid solution.
 
-When you sweep bugs under the rug, you're not just leaving a ticking time bomb for your colleagues—you're also robbing yourself of an opportunity to learn and grow as an engineer. Every hard bug you solve makes you better at your craft.
+When you sweep bugs under the rug, you're not just leaving a ticking time bomb for your colleagues, you're also robbing yourself of an opportunity to learn and grow as an engineer. Every hard bug you solve makes you better at your craft.
 
 So don't be that person: find, don't hide.

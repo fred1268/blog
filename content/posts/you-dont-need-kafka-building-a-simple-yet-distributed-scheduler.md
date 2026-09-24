@@ -15,9 +15,9 @@ hideComments = true
 
 ## The brief
 
-You're building a small multi-tenant SaaS product. You need to run scheduled tasks—some system-wide (cleanup, analytics aggregation), some per-tenant (sending reports, syncing data).
+You're building a small multi-tenant SaaS product. You need to run scheduled tasks, some system-wide (cleanup, analytics aggregation), some per-tenant (sending reports, syncing data).
 
-You may already be thinking message queues, dead letter queues, RabbitMQ, Redis, Kafka. That works—but for a SaaS running on a handful of web servers, it's probably overkill. Your servers aren't exactly overloaded at 3am anyway—why not use those idle resources for background jobs?
+You may already be thinking message queues, dead letter queues, RabbitMQ, Redis, Kafka. That works, but for a SaaS running on a handful of web servers, it's probably overkill. Your servers aren't exactly overloaded at 3am anyway, why not use those idle resources for background jobs?
 
 ## A simpler approach
 
@@ -27,9 +27,9 @@ But you don't have a single server, do you? And that's where things get tricky. 
 
 We need coordination between servers. And here's the insight: you already have a coordination layer. It's called your database.
 
-Row-level locking (`SELECT FOR UPDATE`) gives us distributed coordination for free. When a job is due, multiple servers may race to claim it—but only one will win the lock. The others back off and try the next one.
+Row-level locking (`SELECT FOR UPDATE`) gives us distributed coordination for free. When a job is due, multiple servers may race to claim it, but only one will win the lock. The others back off and try the next one.
 
-So now we have two levels of synchronization: goroutines and channels within each server, database row-level locking between servers. Getting this right requires careful attention to `Commit()` and `Rollback()` calls—one misplaced transaction boundary and your locks don't protect anything. And the two layers must stay in lockstep—more on that later.
+So now we have two levels of synchronization: goroutines and channels within each server, database row-level locking between servers. Getting this right requires careful attention to `Commit()` and `Rollback()` calls, one misplaced transaction boundary and your locks don't protect anything. And the two layers must stay in lockstep, more on that later.
 
 ## The data model
 
@@ -67,9 +67,9 @@ The key fields for coordination are `InProgress` on jobs and `Started` on runs.
 
 Before diving into the details, here's the big picture. The scheduler works in two phases:
 
-1. **Run creation**: When a job is due, all servers race to create the runs. One server wins the lock (via `Job.InProgress`), creates all the runs, and commits. The others see the job is already in progress and back off. This happens at execution time, not when the job is scheduled—so tenants created after the job was defined still get their runs.
+1. **Run creation**: When a job is due, all servers race to create the runs. One server wins the lock (via `Job.InProgress`), creates all the runs, and commits. The others see the job is already in progress and back off. This happens at execution time, not when the job is scheduled, so tenants created after the job was defined still get their runs.
 
-2. **Run execution**: Once runs exist, all servers race to claim them. Each server locks a run (via `Run.Started`), marks it as started, and executes it. Different servers claim different runs—the work is naturally distributed.
+2. **Run execution**: Once runs exist, all servers race to claim them. Each server locks a run (via `Run.Started`), marks it as started, and executes it. Different servers claim different runs, the work is naturally distributed.
 
 This two-phase approach means one server handles the fan-out (creating potentially hundreds of tenant runs), then all servers share the actual execution.
 
@@ -92,7 +92,7 @@ case JobTypeGlobal:
 }
 ```
 
-A single job definition ("send weekly reports") automatically fans out to hundreds of tenant-specific executions—all distributed across your servers.
+A single job definition ("send weekly reports") automatically fans out to hundreds of tenant-specific executions, all distributed across your servers.
 
 ## The main loop
 
@@ -143,7 +143,7 @@ func (s *Scheduler) findNextRun(ctx context.Context) (*Run, error) {
                 db.Rollback(ctx)
                 continue
             }
-            // We got it — mark as started
+            // We got it, mark as started
             now := time.Now()
             run.Started = &now
             s.runSvc.Update(ctx, run)
@@ -214,7 +214,7 @@ Note the tenant context: each run executes in the context of its tenant, so the 
 
 ## Keeping the two layers in sync
 
-Remember the two synchronization layers? Here's where they meet—and where things can go wrong if you're not careful.
+Remember the two synchronization layers? Here's where they meet, and where things can go wrong if you're not careful.
 
 The key rule: a run should only enter the channel *after* the database claim is committed. Look at how `findNextRun` and `executeRuns` work together:
 
@@ -231,9 +231,9 @@ run, _ := s.findNextRun(ctx)  // already committed
 s.runChan <- run              // safe to push now
 ```
 
-The order matters. If you pushed to the channel before committing, another server could claim the same run before your commit goes through—and now two workers are executing the same job.
+The order matters. If you pushed to the channel before committing, another server could claim the same run before your commit goes through, and now two workers are executing the same job.
 
-By committing first, we guarantee that by the time a run enters the channel, no other server can claim it. And if the server crashes between commit and channel push? The run has `Started` set but no `Ended`—it will be picked up on restart.
+By committing first, we guarantee that by the time a run enters the channel, no other server can claim it. And if the server crashes between commit and channel push? The run has `Started` set but no `Ended`, it will be picked up on restart.
 
 ## Fault tolerance
 
@@ -254,6 +254,6 @@ Runs that were created but never completed (or started but never finished) are s
 
 ## Simplicity wins
 
-For a small-to-medium multi-tenant SaaS running on a handful of servers, you don't always need Kafka. You don't always need Redis. Sometimes your database—the thing you already have, already operate, already monitor—is enough.
+For a small-to-medium multi-tenant SaaS running on a handful of servers, you don't always need Kafka. You don't always need Redis. Sometimes your database, the thing you already have, already operate, already monitor, is enough.
 
 The key is using `SELECT FOR UPDATE` as a distributed lock. It's not as scalable as a dedicated message broker, but it's dramatically simpler. And for many applications, simplicity wins.

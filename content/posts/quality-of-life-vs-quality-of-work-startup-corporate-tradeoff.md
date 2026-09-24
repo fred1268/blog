@@ -13,13 +13,13 @@ hideComments = true
 
 When you're starting out in tech, there's one question that doesn't get nearly enough attention: should you work for a big company or a startup?
 
-There's no right or wrong answer here—it all depends on what you're looking for. But understanding the tradeoffs is crucial, because this choice will shape not just your day-to-day experience, but potentially your entire career trajectory.
+There's no right or wrong answer here, it all depends on what you're looking for. But understanding the tradeoffs is crucial, because this choice will shape not just your day-to-day experience, but potentially your entire career trajectory.
 
 ## Quality of life
 
 Let's be honest: big companies win this one hands down.
 
-Large corporations offer a whole range of perks that most startups—unless they're flush with funding like OpenAI—simply can't match. Better offices, ergonomic chairs, free meals, generous benefits... the list goes on.
+Large corporations offer a whole range of perks that most startups, unless they're flush with funding like OpenAI, simply can't match. Better offices, ergonomic chairs, free meals, generous benefits... the list goes on.
 
 The expectations are different too. Startups often demand higher involvement, which usually translates to longer hours and constant availability. At big companies, that level of commitment is either not expected or, when it is, it's compensated accordingly.
 
@@ -40,15 +40,15 @@ And probably many other things that vary from person to person.
 
 By definition, you'll be one developer among hundreds, with a narrow view of a tiny slice of a larger system.
 
-You won't have control over the tools you use daily—your toolchain, CI pipeline, IDE, debugger, deployment infrastructure. These are built and maintained by other teams who, just like you, only have a partial view of how things are actually used. The result? Tools designed for the lowest common denominator, often poorly suited to your specific needs.
+You won't have control over the tools you use daily, your toolchain, CI pipeline, IDE, debugger, deployment infrastructure. These are built and maintained by other teams who, just like you, only have a partial view of how things are actually used. The result? Tools designed for the lowest common denominator, often poorly suited to your specific needs.
 
-And then there's the politics. Decisions aren't always made for the good of the company or the customer—they're made to win favor or avoid stepping on toes. It's not exactly inspiring if you want to have impact, move fast, and learn.
+And then there's the politics. Decisions aren't always made for the good of the company or the customer, they're made to win favor or avoid stepping on toes. It's not exactly inspiring if you want to have impact, move fast, and learn.
 
-That said, big companies do offer exposure to systems operating at a scale you'll rarely see elsewhere—though [that scale is often less technically complex](/posts/the-myth-of-technical-complexity-at-scale/) than you'd expect—and occasionally, the chance to meet truly exceptional people you'd almost never encounter in a startup.
+That said, big companies do offer exposure to systems operating at a scale you'll rarely see elsewhere, though [that scale is often less technically complex](/posts/the-myth-of-technical-complexity-at-scale/) than you'd expect, and occasionally, the chance to meet truly exceptional people you'd almost never encounter in a startup.
 
 ### The startup experience
 
-Startups are a refreshing contrast—chaotic, but refreshing.
+Startups are a refreshing contrast, chaotic, but refreshing.
 
 When you're lucky, there are some tools to help you. When you're not, you're on your own. But here's the upside: when something breaks, you have to figure it out yourself, and you have end-to-end ownership to do so.
 
@@ -60,11 +60,11 @@ The tradeoff? You probably won't learn many formal processes, and your only way 
 
 Does it matter? Absolutely.
 
-Here's the thing: after spending several years in one environment or the other, you'll be strongly shaped by it. Transitioning from big company to startup (or vice versa) becomes incredibly difficult—both in terms of getting hired and actually fitting in. Some people manage it, but they're the exception.
+Here's the thing: after spending several years in one environment or the other, you'll be strongly shaped by it. Transitioning from big company to startup (or vice versa) becomes incredibly difficult, both in terms of getting hired and actually fitting in. Some people manage it, but they're the exception.
 
 So how do you decide?
 
 - If you value structure, stability, and quality of life above all else, go with the big company.
 - If you want to ship, learn, contribute, and have real impact, a startup is probably for you.
 
-Take the time to try both if you can—ideally during internships, before you've committed to a path. This choice matters more than most people realize, and the earlier you figure out what suits you, the better off you'll be.
+Take the time to try both if you can, ideally during internships, before you've committed to a path. This choice matters more than most people realize, and the earlier you figure out what suits you, the better off you'll be.

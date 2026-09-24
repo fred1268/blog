@@ -13,11 +13,11 @@ readingTime = true
 hideComments = true
 +++
 
-The other day I met a relatively young developer who was talking to me about CQRS. Nothing wrong with that—except it wasn't really a discussion. No weighing pros and cons, no "here's when it makes sense". More like uncritical evangelism, as if CQRS were the latest breakthrough about to revolutionize everything.
+The other day I met a relatively young developer who was talking to me about CQRS. Nothing wrong with that, except it wasn't really a discussion. No weighing pros and cons, no "here's when it makes sense". More like uncritical evangelism, as if CQRS were the latest breakthrough about to revolutionize everything.
 
 In the 2020s.
 
-I later learned he'd been implementing it systematically at every company he worked for—he was a freelancer—regardless of the actual problem at hand.
+I later learned he'd been implementing it systematically at every company he worked for, he was a freelancer, regardless of the actual problem at hand.
 
 ## A brief history of CQRS
 
@@ -33,7 +33,7 @@ In that world, CQRS could make perfect sense.
 
 First, context has changed dramatically. Multi-core processors are everywhere. Storage options have multiplied beyond recognition. Cloud infrastructure offers scaling options that didn't exist. The constraints that made CQRS necessary have largely dissolved.
 
-Second—and the people who developed CQRS will tell you this themselves—it only makes sense in specific scenarios. You need a significant asymmetry between reads and writes to justify the added complexity. The benefits must substantially outweigh the cost of maintaining what is essentially two systems instead of one.
+Second, and the people who developed CQRS will tell you this themselves, it only makes sense in specific scenarios. You need a significant asymmetry between reads and writes to justify the added complexity. The benefits must substantially outweigh the cost of maintaining what is essentially two systems instead of one.
 
 For most applications, a well-designed CRUD approach is simpler and sufficient.
 
@@ -51,8 +51,8 @@ This means dogmatism has no place in our profession. You can have convictions, c
 
 When you encounter a technique that's new to you, resist the urge to implement it everywhere.
 
-Start by understanding its historical context—why was it invented, what problems did it solve? This helps you grasp not just the *what* but the *why*. Then ask yourself whether those original conditions still apply. If the constraints that justified the technique have disappeared, there's a good chance the technique has quietly expired.
+Start by understanding its historical context, why was it invented, what problems did it solve? This helps you grasp not just the *what* but the *why*. Then ask yourself whether those original conditions still apply. If the constraints that justified the technique have disappeared, there's a good chance the technique has quietly expired.
 
 And remember: truly universal techniques are rare. Most appear and disappear based on the specific problems at hand. Our industry's pace of change is simply incompatible with dogmatism.
 
-So don't be that person: think before you implement. Understand before you preach. And regularly question your past choices against present realities—what made sense five years ago might be baggage today.
+So don't be that person: think before you implement. Understand before you preach. And regularly question your past choices against present realities, what made sense five years ago might be baggage today.

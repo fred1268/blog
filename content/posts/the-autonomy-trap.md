@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = "covers/the-autonomy-trap.png"
 tags = ["management", "career"]
 keywords = ["management", "leadership", "team autonomy", "accountability", "startup culture", "decision making"]
-description = "Many companies proudly claim 'our teams decide'. But when autonomy comes without accountability, who owns the failures? A look at why this trendy management style often creates a new kind of dysfunction—and leaves managers in an impossible position."
+description = "Many companies proudly claim 'our teams decide'. But when autonomy comes without accountability, who owns the failures? A look at why this trendy management style often creates a new kind of dysfunction, and leaves managers in an impossible position."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -17,17 +17,17 @@ There was a time when the all-powerful boss decided everything. "Do this, do tha
 
 Then came what some called "participative management". The manager still made the final call, but took time to explain, listen, and adjust objectives based on feedback. The manager owned the strategy's failure; the team owned its success. A reasonable balance.
 
-But that time seems to be over. Now I keep encountering startups where I'm told "here, teams decide" or "our teams are autonomous". On paper, it sounds wonderful. In practice—having tested it multiple times—the reality is very different.
+But that time seems to be over. Now I keep encountering startups where I'm told "here, teams decide" or "our teams are autonomous". On paper, it sounds wonderful. In practice, having tested it multiple times, the reality is very different.
 
 ## Do they have the experience?
 
-Let's be honest: it's rare for someone in their mid-twenties, fresh out of school or their first job, to have the context needed for strategic decisions. Not because they lack intelligence—but because strategic judgment comes from experience, and experience takes time.
+Let's be honest: it's rare for someone in their mid-twenties, fresh out of school or their first job, to have the context needed for strategic decisions. Not because they lack intelligence, but because strategic judgment comes from experience, and experience takes time.
 
-Some are brilliant, of course. But most of us—myself very much included—believed and said plenty of nonsense at that age. That's not an insult; it's just how growth works.
+Some are brilliant, of course. But most of us, myself very much included, believed and said plenty of nonsense at that age. That's not an insult; it's just how growth works.
 
 ## Do they have the information?
 
-Teams typically don't have all the information needed to make good decisions. Sometimes it's a lack of transparency. More often, certain information simply can't be shared—competitive intelligence, personnel matters, financial constraints, ongoing negotiations.
+Teams typically don't have all the information needed to make good decisions. Sometimes it's a lack of transparency. More often, certain information simply can't be shared, competitive intelligence, personnel matters, financial constraints, ongoing negotiations.
 
 Even the smartest people can't make good decisions with incomplete information. It's not a question of intelligence; it's a question of inputs.
 
@@ -45,14 +45,14 @@ And therein lies the problem.
 
 I come back to my original question: what exactly is a manager supposed to do in these companies?
 
-The manager is caught in a crossfire. On one side, there's the company's ambitions—decided at the executive level and cascaded down the hierarchy—that the manager is expected to deliver with their team. On the other, there are the ICs who will work on whatever they've decided to work on, because they were told they could.
+The manager is caught in a crossfire. On one side, there's the company's ambitions, decided at the executive level and cascaded down the hierarchy, that the manager is expected to deliver with their team. On the other, there are the ICs who will work on whatever they've decided to work on, because they were told they could.
 
 When the two align, everything works, and everyone's happy. But that's rarely the case.
 
-So the manager faces an impossible choice: let it happen and miss their objectives—losing the trust of leadership above—or try to steer the team's direction, at which point someone will inevitably remind them that "we were told we get to decide"—losing the trust of the team below.
+So the manager faces an impossible choice: let it happen and miss their objectives, losing the trust of leadership above, or try to steer the team's direction, at which point someone will inevitably remind them that "we were told we get to decide", losing the trust of the team below.
 
 Either way, trust is the casualty. Pick your direction.
 
 What's left for them?
 
-You neo-CEOs who want to let your teams decide everything—often more out of a desire to seem progressive than because it actually works—you need to find that answer. Because managing in these neo-dictatorships you've created is a genuine nightmare. You've built organizations where everyone has voice but no one has ownership. That's not autonomy. That's chaos with extra steps.
+You neo-CEOs who want to let your teams decide everything, often more out of a desire to seem progressive than because it actually works, you need to find that answer. Because managing in these neo-dictatorships you've created is a genuine nightmare. You've built organizations where everyone has voice but no one has ownership. That's not autonomy. That's chaos with extra steps.
