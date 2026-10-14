@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = "covers/who-cares.png"
 tags = ["career", "reflections"]
 keywords = ["corporate waste", "company money", "frugality", "ai cost", "engineering culture", "career", "startups vs big tech", "software waste"]
-description = "A manager once used the company card like it was his personal piggy bank, no shame, no hesitation. It stuck with me, because my own relationship with other people's money has always been the exact opposite. So why does one attitude seem to be winning?"
+description = "A manager of mine would use the company card without a flicker of hesitation. My own instinct has always run the exact opposite way, and I'm starting to wonder if that instinct is a dying breed."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -29,7 +29,7 @@ Today, I'm an individual contributor at a large company, and I still do the same
 
 Here's the uncomfortable part: I don't think I'm alone in this, but I increasingly feel like I am. It's not that everyone else has stopped being aware of what things cost, or stopped applying the same rigor they'd use with their own money. It's that the few of us who still do are being slowly outnumbered by a growing crowd who simply doesn't care anymore.
 
-Why is the club shrinking?
+But why is the club shrinking?
 
 ## Where the instinct goes to die
 
@@ -45,7 +45,7 @@ But here's what nags at me: managers are supposed to be closer to the numbers th
 
 It would be easy to stop here and point at a few careless managers. But the instinct to waste rarely arrives as a grand gesture. It arrives in small, forgivable-looking decisions, the kind that don't feel like waste until you add enough of them together. And nothing invites those small decisions more than AI.
 
-I don't want it to become my new scapegoat, blamed for every inefficiency that happens to involve a keyboard. But there's no denying that its sheer ease invites exactly this kind of waste. Everything moves faster now, which also means code gets reviewed less carefully, and what used to be tuned and optimized often just... isn't. Something that used to run in 10 milliseconds now takes 15, and nobody notices, because why would they go looking? A few unnecessary log lines get left behind here and there, quietly accumulating somewhere, at real cost, for nobody's benefit. And there's a layer most people forget: the AI call that produced the inefficient code wasn't free, and neither will be the one that eventually fixes it, if someone even cares to address it.
+I don't want it to become my new scapegoat, blamed for every inefficiency that happens to involve a keyboard. That would be far too easy. But there's no denying that its sheer ease invites exactly this kind of waste. Everything moves faster now, which also means code gets reviewed less carefully, and what used to be tuned and optimized often just... isn't. Something that used to run in 10 milliseconds now takes 15, and nobody notices, because why would they go looking? A few unnecessary log lines get left behind here and there, quietly accumulating somewhere, at real cost, for nobody's benefit. And there's a layer most people forget: the AI call that produced the inefficient code wasn't free, and neither will be the one that eventually fixes it, if someone even cares to address it.
 
 As I wrote in [Shipping fast, breaking slowly](/posts/shipping-fast-breaking-slowly/), the bill for all this speed doesn't arrive today. It arrives later, quietly, long after everyone's forgotten exactly which small shortcut added up to it.
 
