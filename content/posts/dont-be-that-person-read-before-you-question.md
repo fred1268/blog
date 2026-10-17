@@ -25,7 +25,7 @@ The issue isn't *whether* you question something. It's *how* and *when*.
 
 ## Do your homework first
 
-When someone ships something, be it a design, a pull request, a ticket, or a set of slides, you're always free to question it. But that freedom comes with a prerequisite: you have to actually read what's in front of you first. The slides. The documentation. The ticket description. The PR itself.
+When someone ships something, be it a design, a pull request, a ticket, a set of slides, or anything else, really, you're always free to question it. But that freedom comes with a prerequisite: you have to actually read what's in front of you first. The slides. The documentation. The ticket description. The PR itself.
 
 Skip that step, and you run one of two risks. Either you ask a question whose answer was sitting right there in plain view, or you ask something that has nothing to do with the actual subject. Either way, you come across as not having done the work, and you waste your counterpart's time dragging them back to ground you could have covered yourself.
 
