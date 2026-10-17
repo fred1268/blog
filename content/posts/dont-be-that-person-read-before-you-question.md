@@ -29,7 +29,7 @@ When someone ships something, be it a design, a pull request, a ticket, or a set
 
 Skip that step, and you run one of two risks. Either you ask a question whose answer was sitting right there in plain view, or you ask something that has nothing to do with the actual subject. Either way, you come across as not having done the work, and you waste your counterpart's time dragging them back to ground you could have covered yourself.
 
-The frustrating part is that most people who do this have no idea how it looks from the outside. That doesn't make it any less true, or any less costly for the person on the receiving end.
+What's actually sad is that most people who do this are simply too closed in on themselves to see how it looks from the outside. And it affects the other person more than they'd often admit: some get annoyed, others start second-guessing themselves, others just feel quietly worn down, all on top of the time it costs them.
 
 ## Understanding before criticizing
 
