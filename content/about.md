@@ -12,7 +12,7 @@ I've been writing code for as long as I can remember—starting at age 10 with B
 
 My professional career started in C++, where I spent about a decade building software for companies like Borland. From there, I transitioned to Java and took on my first CTO role. During that time, I wrote the early versions of what eventually became Salesforce Knowledge.
 
-Over the years, I've had the privilege of leading teams of hundreds of engineers while still keeping my hands on the keyboard. These days, I've stepped back from management and returned to what I love most—writing code, mostly in Go. I've also recently started exploring Rust professionally.
+Over the years, I've had the privilege of leading teams of hundreds of engineers while still keeping my hands on the keyboard. These days, I've stepped back from management and returned to what I love most—writing code, mostly in Go and Rust.
 
 ## What drives me
 
@@ -21,4 +21,3 @@ I've been fortunate to experience both sides of the spectrum—deep technical wo
 ## Get in touch
 
 If you'd like to connect, you can reach me at **lets<at_sign>overco.de**.
-
