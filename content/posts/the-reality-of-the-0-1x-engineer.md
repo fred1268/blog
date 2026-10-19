@@ -19,7 +19,7 @@ In [Shipping fast, breaking slowly](/posts/shipping-fast-breaking-slowly/), I wr
 
 When someone in the room asked how we'd keep understanding our own codebase if we stopped reviewing everything, the response was quick: "We run Linux in production, and none of us understand its codebase either."
 
-It's worth sitting with that comparison for a second, because it falls apart the moment you do. It's true that nobody on our team has read the Linux kernel source. But that's not because nobody understands it. Thousands of contributors understand it extremely well, deeply, continuously, and specifically enough to review every patch that goes in. The kernel isn't uncomprehended code running on faith. It's comprehended code, just not by us.
+It's worth sitting with that comparison for a second, because it falls apart the moment you do. It's true that, even across a team this large, probably nobody has read the Linux kernel source. But that's not because nobody understands it. Thousands of contributors understand it extremely well, deeply, continuously, and specifically enough to review every patch that goes in. The kernel isn't uncomprehended code running on faith. It's comprehended code, just not by us.
 
 What was being proposed at that all-hands was something else entirely: code that nobody, anywhere, fully understands anymore. That's not the Linux model. That's the opposite of it.
 

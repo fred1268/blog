@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-Years ago, I worked for a company that was something of a pioneer, one of the first big SaaS CRM players out there. Yes, that one. My manager at the time used the company VISA card to buy bottles of wine, or to take his family out to dinner, without a trace of hesitation or shame. On the company.
+Years ago, I worked for a company that was something of a pioneer, one of the first big SaaS CRM players out there. Yes, that one. My manager at the time used the company VISA card without shame, as long as it was dressed up as business: his wife and kids slipped into "team dinners," bottles of wine billed as "team-building." On the company.
 
 I remember being genuinely stunned by it, not in an outraged, report-him-to-HR way, but in a "wait, people actually think this is fine?" way. Because my own relationship with other people's money has always been the exact opposite.
 
@@ -21,7 +21,7 @@ I remember being genuinely stunned by it, not in an outraged, report-him-to-HR w
 
 I've had the unusual experience of sitting on every side of this question. When I was running my own company, naturally, every cent that went out the door felt like it was coming out of my own pocket, because it was. At another point, I was the first employee and eventual CTO of a startup, and I treated every cent with the exact same discipline. At every stage, I spent, or more accurately, saved, the company's money with the same care I'd apply to my own savings account.
 
-Eventually I became CTO of a company with 300 employees and $50 million in revenue. The numbers were bigger, the budget lines more abstract, but the instinct stayed exactly the same: manage this with the same seriousness and the same frugality I bring to my own household.
+At another company, I was CTO of an outfit with 300 employees and $50 million in revenue. The numbers were bigger, the budget lines more abstract, but the instinct stayed exactly the same: manage this with the same seriousness and the same frugality I bring to my own household.
 
 Today, I'm an individual contributor at a large company, and I still do the same thing: I care about what a given line of code costs, and I optimize for it using whatever metrics I can find. At our scale, a single unnecessary log line can quietly cost tens of thousands of dollars a month.
 
@@ -43,7 +43,7 @@ But here's what nags at me: managers are supposed to be closer to the numbers th
 
 ## When the mirror turns
 
-It would be easy to stop here and point at a few careless managers. But the instinct to waste rarely arrives as a grand gesture. It arrives in small, forgivable-looking decisions, the kind that don't feel like waste until you add enough of them together. And nothing invites those small decisions more than AI.
+None of this lets managers off the hook, they still carry more of that responsibility than anyone. But the instinct to waste isn't theirs alone, either. It arrives in small, forgivable-looking decisions, the kind that don't feel like waste until you add enough of them together. And nothing invites those small decisions more than AI.
 
 I don't want it to become my new scapegoat, blamed for every inefficiency that happens to involve a keyboard. That would be far too easy. But there's no denying that its sheer ease invites exactly this kind of waste. Everything moves faster now, which also means code gets reviewed less carefully, and what used to be tuned and optimized often just... isn't. Something that used to run in 10 milliseconds now takes 15, and nobody notices, because why would they go looking? A few unnecessary log lines get left behind here and there, quietly accumulating somewhere, at real cost, for nobody's benefit. And there's a layer most people forget: the AI call that produced the inefficient code wasn't free, and neither will be the one that eventually fixes it, if someone even cares to address it.
 

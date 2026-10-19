@@ -13,7 +13,7 @@ readingTime = true
 hideComments = true
 +++
 
-The other day, a colleague publicly dismissed a piece of work I'd done as useless and low priority, in front of the whole team. That alone speaks for itself, I won't waste another word on it. What matters here is the dismissal itself, what happened next, and how both played out. The next day, that same colleague proposed a solution, one that made it clear he hadn't understood the problem, and certainly not the solution I'd already put in place.
+The other day, a colleague publicly dismissed basically all of my recent work as useless and low priority, in front of the whole team. That alone speaks for itself, I won't waste another word on it. What matters here is the dismissal itself, what happened next, and how both played out. The next day, that same colleague proposed a solution, one that made it clear he hadn't understood the problem, and certainly not the solution I'd already put in place.
 
 Two moments, back to back, that combined a striking amount of confidence, and an equal lack of understanding and tact.
 
