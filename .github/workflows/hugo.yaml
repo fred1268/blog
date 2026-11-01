@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 3 1 * *'
+    - cron: '0 9 1 * *'   # backup cron
 permissions:
   contents: read
   pages: write
