@@ -2,7 +2,7 @@ name: Build and deploy
 on:
   push:
     branches:
-      - main
+      - development
   workflow_dispatch:
   schedule:
     - cron: '0 3 1 * *'
